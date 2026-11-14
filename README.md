@@ -4,7 +4,9 @@ Pick any U.S. college and see how its athletics program compares with its confer
 
 ![The national picture, one dot per college](docs/img/preview.jpg)
 
-The page is `docs/index.html` in this repository. It opens in a browser with no server or install.
+**Live page:** https://estetler-mbadba.github.io/athletics-benchmarking-explorer/
+
+The same page is `docs/index.html` in this repository. It opens in a browser with no server or install.
 
 This is an independent analysis of public records. It is not affiliated with or endorsed by any college, conference, or athletic association.
 
