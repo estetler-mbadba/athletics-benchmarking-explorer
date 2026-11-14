@@ -1,0 +1,62 @@
+list,wiki_school,city,state,conference,reason
+D1,United States Air Force Academy,USAF Academy,CO,Mountain West Conference,override: service academy; does not file EADA
+D1,United States Military Academy,West Point,NY,Patriot League,override: service academy; does not file EADA
+D1,United States Naval Academy,Annapolis,MD,Patriot League,override: service academy; does not file EADA
+D2,Academy of Art University,San Francisco,CA,Pacific West Conference,override: no EADA record for 2024-25
+D2,Bloomsburg University of Pennsylvania,Bloomsburg,PA,Pennsylvania State Athletic Conference,override: files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,"Pennsylvania Western University, California",California,PA,Pennsylvania State Athletic Conference,override: files as part of Pennsylvania Western University (three athletic programs in one record)
+D2,"Pennsylvania Western University, Clarion",Clarion,PA,Pennsylvania State Athletic Conference,override: files as part of Pennsylvania Western University (three athletic programs in one record)
+D2,"Pennsylvania Western University, Edinboro",Edinboro,PA,Pennsylvania State Athletic Conference,override: files as part of Pennsylvania Western University (three athletic programs in one record)
+D2,Hillsdale College,Hillsdale,MI,Great Midwest Athletic Conference,override: accepts no federal student aid; does not file EADA
+D2,Limestone University,Gaffney,SC,South Atlantic Conference,override: no EADA record for 2024-25 (closed in 2025)
+D2,Lock Haven University of Pennsylvania,Lock Haven,PA,Pennsylvania State Athletic Conference,override: files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,Mansfield University of Pennsylvania,Mansfield,PA,Pennsylvania State Athletic Conference,override: files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,Morehouse College,Atlanta,GA,Southern Intercollegiate Athletic Conference,override: men's college; EADA covers coeducational institutions only
+D2,Saint Augustine's University,Raleigh,NC,Central Intercollegiate Athletic Association,override: no EADA record for 2024-25
+D2,Simon Fraser University,Burnaby,BC,Great Northwest Athletic Conference,override: Canadian institution; does not file EADA
+D2,Ferrum College,Ferrum,VA,Conference Carolinas,listed as reclassifying; EADA shows a different division for 2024-25
+D2,"University of California, Merced",Merced,CA,California Collegiate Athletic Association,listed as reclassifying; EADA shows a different division for 2024-25
+D2,East Texas A&M University,Commerce,TX,Southland Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,Le Moyne College,Syracuse,NY,Northeast Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,Lindenwood University,Saint Charles,MO,Ohio Valley Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,Mercyhurst University,Erie,PA,Northeast Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,Queens University of Charlotte,Charlotte,NC,Atlantic Sun Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,Stonehill College,Easton,MA,Northeast Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D2,University of West Georgia,Carrollton,GA,Atlantic Sun Conference,listed as reclassifying; EADA shows a different division for 2024-25
+D3,Agnes Scott College,Decatur,GA,Collegiate Conference of the South,override: women's college; EADA covers coeducational institutions only
+D3,Bryn Athyn College,Bryn Athyn,PA,United East Conference,override: no EADA record for 2024-25
+D3,Bryn Mawr College,Bryn Mawr,PA,Centennial Conference,override: women's college; EADA covers coeducational institutions only
+D3,Fontbonne University,St. Louis,MO,St. Louis Intercollegiate Athletic Conference,override: no EADA record for 2024-25 (closed in 2025)
+D3,Grove City College,Grove City,PA,Presidents' Athletic Conference,override: accepts no federal student aid; does not file EADA
+D3,Hampden–Sydney College,Hampden Sydney,VA,Old Dominion Athletic Conference,override: men's college; EADA covers coeducational institutions only
+D3,Hollins University,Roanoke,VA,Old Dominion Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Meredith College,Raleigh,NC,USA South Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Mount Holyoke College,South Hadley,MA,New England Women's and Men's Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Mount Mary University,Milwaukee,WI,Coast to Coast Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Northland College,Ashland,WI,Upper Midwest Athletic Conference,override: no EADA record for 2024-25 (closed in 2025)
+D3,College of Saint Benedict,St. Joseph,MN,Minnesota Intercollegiate Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Saint John's University,Collegeville,MN,Minnesota Intercollegiate Athletic Conference,override: men's college (joint program with the College of Saint Benedict); EADA covers coeducational institutions only
+D3,Saint Mary's College,Notre Dame,IN,Michigan Intercollegiate Athletic Association,override: women's college; EADA covers coeducational institutions only
+D3,Salem College,Winston-Salem,NC,USA South Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Simmons University,Boston,MA,Great Northeast Athletic Conference,override: women's undergraduate college; no EADA record
+D3,Smith College,Northampton,MA,New England Women's and Men's Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,Sweet Briar College,Sweet Briar,VA,Old Dominion Athletic Conference,override: women's college; EADA covers coeducational institutions only
+D3,United States Coast Guard Academy,New London,CT,New England Women's and Men's Athletic Conference,override: service academy; does not file EADA
+D3,Vermont State University–Castleton,Castleton,VT,Little East Conference,override: files as part of Vermont State University (three athletic programs in one record)
+D3,Vermont State University–Johnson,Johnson,VT,North Atlantic Conference,override: files as part of Vermont State University (three athletic programs in one record)
+D3,Vermont State University–Lyndon,Lyndonville,VT,North Atlantic Conference,override: files as part of Vermont State University (three athletic programs in one record)
+D3,Wabash College,Crawfordsville,IN,North Coast Athletic Conference,override: men's college; EADA covers coeducational institutions only
+D3,Wesleyan College,Macon,GA,Collegiate Conference of the South,override: women's college; EADA covers coeducational institutions only
+NAIA,Benedictine University at Mesa,Mesa,AZ,Great Southwest Athletic Conference,override: no separate EADA record; not Mesa Community College
+NAIA,University of British Columbia,Vancouver,,Cascade Collegiate Conference,override: Canadian institution; does not file EADA
+NAIA,Concordia University Ann Arbor,Ann Arbor,MI,Wolverine–Hoosier Athletic Conference,override: no EADA record; a campus of Concordia University Wisconsin
+NAIA,Cottey College,Nevada,MO,American Midwest Conference,override: women's college; EADA covers coeducational institutions only
+NAIA,Indiana University Columbus,Columbus,IN,River States Conference,override: no separate EADA record for 2024-25
+NAIA,Multnomah University,Portland,OR,Cascade Collegiate Conference,override: no EADA record for 2024-25
+NAIA,Park University Gilbert,Gilbert,AZ,Great Southwest Athletic Conference,override: no separate EADA record; the Missouri campus files as Park University
+NAIA,Providence Christian College,Pasadena,CA,California Pacific Conference,override: no EADA record for 2024-25
+NAIA,St. Andrews University,Laurinburg,NC,Appalachian Athletic Conference,override: no EADA record for 2024-25 (closed in 2025)
+NAIA,College of Saint Mary,Omaha,NE,Great Plains Athletic Conference,override: women's college; EADA covers coeducational institutions only
+NAIA,Savannah College of Art and Design,Savannah,GA,Sun Conference,override: one EADA record covers the Savannah and Atlanta programs
+NAIA,Savannah College of Art and Design–Atlanta,Atlanta,GA,Appalachian Athletic Conference,override: one EADA record covers the Savannah and Atlanta programs
+NAIA,University of Victoria,Victoria,,Continental Athletic Conference,override: Canadian institution; does not file EADA

@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methods and checks</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <p class="eyebrow"><a href="index.html">Back to the explorer</a></p>
+  <h1>Methods and checks</h1>
+  <p class="deck">Where each number comes from, how each measure is defined, how colleges were matched to conferences, and how the AI-written code was checked.</p>
+</header>
+
+<section>
+  <h2>Sources</h2>
+  <p class="finding">Everything comes from files that anyone can download. Nothing here uses internal, licensed, or confidential data.</p>
+  <div class="card"><div class="table-scroll">
+    <table class="text">
+      <thead><tr><th scope="col">Source</th><th scope="col">What it supplies</th><th scope="col">Years</th></tr></thead>
+      <tbody>
+        <tr><td>U.S. Department of Education, Office of Postsecondary Education, Equity in Athletics Disclosure Act (EADA) data files</td><td>Athletes, teams, athletic aid, recruiting and total expenses, coaches, and full-time undergraduate enrollment, by college and by sport. Every coeducational college that takes federal student aid and has varsity athletics files each October.</td><td id="src-eada"></td></tr>
+        <tr><td>National Center for Education Statistics, IPEDS, Institutional Characteristics (published prices)</td><td>In-state tuition and fees and the on-campus cost of attendance, used for aid as a share of tuition and for full-cost scholarship equivalents.</td><td id="src-price"></td></tr>
+        <tr><td>National Center for Education Statistics, IPEDS, Fall Enrollment</td><td>Full-time undergraduate enrollment, used only as an outside check on the EADA counts.</td><td>Fall 2023</td></tr>
+        <tr><td>Wikipedia, lists of NCAA Division I, II, and III and NAIA institutions, as they stood in February 2025 (CC BY-SA 4.0)</td><td>Conference membership for the 2024-25 season. The federal file has no conference field.</td><td>2024-25</td></tr>
+      </tbody>
+    </table>
+  </div></div>
+</section>
+
+<section>
+  <h2>Definitions</h2>
+  <p class="finding">Each measure is defined once, in <code>sql/03_marts.sql</code>. A ratio is left blank when its denominator is zero or missing, so a college is skipped in that ranking and never scored as zero.</p>
+  <div class="card"><div class="table-scroll">
+    <table class="text">
+      <thead><tr><th scope="col">Measure</th><th scope="col">Definition</th></tr></thead>
+      <tbody>
+        <tr><td>Athletes</td><td>Students on at least one varsity team, each counted once (EADA's unduplicated count).</td></tr>
+        <tr><td>Athletes as a share of full-time undergraduates</td><td>Athletes divided by the full-time undergraduate count in the same EADA filing.</td></tr>
+        <tr><td>Teams</td><td>Men's and women's teams counted separately, as each college reports them. Indoor track, outdoor track, and cross country count as separate teams when a college reports them separately.</td></tr>
+        <tr><td>Total athletics expense</td><td>EADA's grand total: every team's expenses, athletic aid, and expenses not assigned to a team.</td></tr>
+        <tr><td>Spending per athlete</td><td>Total athletics expense divided by athletes. The version without athletic aid subtracts aid first.</td></tr>
+        <tr><td>Recruiting spending per athlete</td><td>Reported recruiting expenses divided by athletes. Some colleges report zero.</td></tr>
+        <tr><td>Athletic aid per athlete</td><td>Athletically related student aid divided by all athletes, including those who receive none.</td></tr>
+        <tr><td>Aid per athlete as a share of tuition and fees</td><td>Athletic aid per athlete divided by published in-state tuition and required fees for a full-time undergraduate.</td></tr>
+        <tr><td>Full-cost scholarship equivalents per 100 athletes</td><td>Athletic aid divided by the published on-campus cost of attendance (tuition and fees, books, room and board, other expenses), per 100 athletes. A rough count of the full rides the aid budget would fund.</td></tr>
+        <tr><td>Athletes per full-time-equivalent coach</td><td>Athletes divided by head and assistant coaches for men's, women's, and coed teams, in full-time equivalents.</td></tr>
+        <tr><td>Average head coach salary per full-time equivalent</td><td>As reported by the college, separately for men's and women's teams.</td></tr>
+        <tr><td>Proportionality gap</td><td>Women's share of full-time undergraduates minus women's share of athletes, in share points. A larger gap means women are more under-represented among athletes.</td></tr>
+        <tr><td>Spending per participant, by sport</td><td>The sport's total expense for men's and women's teams together, divided by participants. A participant is counted once per team. Track and cross country are one line, and swimming and diving are one line, because colleges report them either combined or apart.</td></tr>
+        <tr><td>Median, rank, and middle half</td><td>The median is the middle college in the group, counting the picked college. Rank 1 is the highest value. The middle half runs from the 25th to the 75th percentile.</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="source">Revenue is not compared. Most small colleges report athletics revenue equal to expense because the institution covers the difference.</p></div>
+</section>
+
+<section>
+  <h2>Comparison groups</h2>
+  <ul class="plain">
+    <li><strong>Conference.</strong> Full members during 2024-25 that have an EADA record. <span id="conf-count"></span></li>
+    <li><strong>Division, nationally.</strong> The classification each college reports to the Department of Education. Division I is split into FBS, FCS, and no football because the budgets differ by an order of magnitude.</li>
+    <li><strong>Division within a region.</strong> The same division, limited to the college's Census region.</li>
+    <li><strong>Closest in enrollment.</strong> The 20 colleges in the same division with the nearest full-time undergraduate count.</li>
+    <li><strong>A group you build.</strong> Any colleges you choose. The list is stored in the page address and nowhere else.</li>
+  </ul>
+  <p class="note">Group membership is the 2024-25 membership in every year of the trend charts. Division medians on the home page are computed in SQL; the other groups are computed in the page from the same college-level table, and the accuracy checks confirm the SQL medians against an independent calculation.</p>
+</section>
+
+<section>
+  <h2>Matching colleges to conferences</h2>
+  <p class="finding" id="match-summary"></p>
+  <p class="note" style="margin:0 0 16px">Each school on the four lists was matched to a federal unit ID by state, city, and name. A match by name alone had to be exact; a partial name needed the city to agree and a clear margin over the next candidate. Every weaker match was read by hand, and corrections are kept in <code>data/seeds/conference_overrides.csv</code> with the reason for each. A school on a list of colleges moving into a new division was kept in its old conference when the federal file still showed the old division for 2024-25.</p>
+  <div class="card"><h3>Schools on the lists that are not in any conference group, and why</h3>
+    <div class="scrollbox"><table class="text">
+      <thead><tr><th scope="col">School</th><th scope="col">Conference</th><th scope="col">Reason</th></tr></thead>
+      <tbody id="left-out"></tbody>
+    </table></div>
+  </div>
+  <div class="card"><h3>Records shown with a caution and left out of group medians</h3>
+    <div class="table-scroll"><table class="text">
+      <thead><tr><th scope="col">Record</th><th scope="col">Caution</th></tr></thead>
+      <tbody id="flag-rows"></tbody>
+    </table></div>
+  </div>
+</section>
+
+<section id="checks">
+  <h2>Accuracy checks</h2>
+  <p class="finding" id="checks-summary"></p>
+  <div class="card"><div class="table-scroll">
+    <table class="text">
+      <thead><tr><th scope="col">Kind</th><th scope="col">Check</th><th scope="col">Result</th><th scope="col">Detail</th></tr></thead>
+      <tbody id="checks-rows"></tbody>
+    </table>
+  </div>
+  <p class="source">Internal checks confirm the federal files agree with themselves. Model checks confirm the SQL did what it says. Outside checks compare with a second source. None of them can catch an error in what a college reported.</p></div>
+</section>
+
+<section>
+  <h2>How this was built, and how the AI's work was checked</h2>
+  <p class="finding">This project was built by directing Claude Code, an AI coding agent, in plain English. The AI wrote the Python, the SQL, and the chart code. The safeguards below are what make the result usable.</p>
+  <ul class="plain">
+    <li><strong>Source columns are named, not guessed.</strong> Only columns listed in <code>pipeline/sources.py</code> reach the database, and the loader stops if a named column is missing from a file.</li>
+    <li><strong>Parts must add up.</strong> For every college in every year, sport expenses plus unallocated expenses equal the reported total, sport rosters equal the participant total, and aid by gender equals total aid.</li>
+    <li><strong>Every table states its grain.</strong> The checks fail the build if a table has duplicate keys, which is how a bad join usually shows up.</li>
+    <li><strong>Medians are computed twice.</strong> Every median in SQL is recomputed in Python and the two must agree.</li>
+    <li><strong>The conference match is reviewable.</strong> Every school is either matched, with the method recorded, or left out with a stated reason. Nothing is dropped silently.</li>
+    <li><strong>Words come from the data.</strong> Every sentence with a number in it is generated from the tables when the page loads, so the prose cannot drift from the figures.</li>
+  </ul>
+  <p class="note">Automation cannot judge whether a comparison is fair or whether two colleges classify athletic aid the same way. The record of what the AI got wrong and the human review log are in AI_WORKFLOW.md in the repository.</p>
+</section>
+
+<hr>
+<footer>
+  <p>Rebuild everything from the federal files with one command: <code>make all</code>. Requires Python 3.9 or later and nothing else.</p>
+  <p><a href="index.html">Back to the explorer</a></p>
+</footer>
+
+</div>
+<script src="data/explorer.js"></script>
+<script src="data/checks.js"></script>
+<script src="js/charts.js"></script>
+<script>
+(function () {
+  var D = window.EXPLORER, K = window.CHECKS, el = window.Charts.htmlEl, F = window.Charts.fmt, m = D.meta;
+  function season(y) { return y + '-' + String(y + 1).slice(2); }
+  document.getElementById('src-eada').textContent = season(m.first_year) + ' through ' + season(m.latest_year) + '. ' + season(2020) + ' is left out because many programs cut or cancelled seasons.';
+  document.getElementById('src-price').textContent = season(m.first_year) + ' through ' + season(m.latest_price_year) + (m.latest_price_year < m.latest_year ? '. ' + season(m.latest_year) + ' prices were not released when this was built, so that year uses ' + season(m.latest_price_year) + ' prices.' : '');
+  document.getElementById('conf-count').textContent = F.int(m.conference_members) + ' colleges in ' + m.conferences + ' conferences.';
+  document.getElementById('match-summary').textContent = F.int(m.conference_members) + ' colleges were matched to a conference. ' + D.left_out.length + ' schools on the lists were left out, each for a stated reason. Most have no federal record: the law covers coeducational colleges that take federal aid.';
+  var lo = document.getElementById('left-out');
+  D.left_out.forEach(function (r) { var tr = el('tr', null, null, lo); r.forEach(function (c) { el('td', null, c, tr); }); });
+  var fl = document.getElementById('flag-rows');
+  D.flags.forEach(function (r) { var tr = el('tr', null, null, fl); r.forEach(function (c) { el('td', null, c, tr); }); });
+  document.getElementById('checks-summary').textContent = (K.total - K.failed) + ' of ' + K.total + ' checks passed when the data was last built, on ' + K.run_on + '. The build stops if any check fails.';
+  var body = document.getElementById('checks-rows');
+  K.items.forEach(function (r) {
+    var tr = el('tr', null, null, body);
+    [r.kind.charAt(0).toUpperCase() + r.kind.slice(1), r.name, r.passed ? 'Pass' : 'FAIL', r.detail].forEach(function (c) { el('td', null, c, tr); });
+  });
+})();
+</script>
+</body>
+</html>

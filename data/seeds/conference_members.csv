@@ -1,0 +1,1280 @@
+unitid,conference,source_list,wiki_school,eada_name,division_differs,reclassifying,match_method
+196079,America East Conference,D1,State University of New York at Binghamton,Binghamton University,0,0,exact name
+217165,America East Conference,D1,Bryant University,Bryant University,0,0,exact name
+185828,America East Conference,D1,New Jersey Institute of Technology,New Jersey Institute of Technology,0,0,exact name
+196060,America East Conference,D1,State University of New York at Albany,University at Albany,0,0,exact name
+161253,America East Conference,D1,University of Maine,University of Maine,0,0,exact name
+163268,America East Conference,D1,"University of Maryland, Baltimore County",University of Maryland-Baltimore County,0,0,exact name
+166513,America East Conference,D1,University of Massachusetts Lowell,University of Massachusetts-Lowell,0,0,exact name
+183044,America East Conference,D1,University of New Hampshire,University of New Hampshire-Main Campus,0,0,exact name
+231174,America East Conference,D1,The University of Vermont and State Agricultural College,University of Vermont,0,0,exact name
+198464,American Athletic Conference,D1,East Carolina University,East Carolina University,0,0,exact name
+133669,American Athletic Conference,D1,Florida Atlantic University,Florida Atlantic University,0,0,exact name
+227757,American Athletic Conference,D1,William Marsh Rice University,Rice University,0,0,exact name
+216339,American Athletic Conference,D1,Temple University,Temple University,0,0,exact name
+229027,American Athletic Conference,D1,The University of Texas at San Antonio,The University of Texas at San Antonio,0,0,exact name
+160755,American Athletic Conference,D1,Tulane University of Louisiana,Tulane University of Louisiana,0,0,exact name
+100663,American Athletic Conference,D1,University of Alabama at Birmingham,University of Alabama at Birmingham,0,0,exact name
+220862,American Athletic Conference,D1,University of Memphis,University of Memphis,0,0,exact name
+199139,American Athletic Conference,D1,University of North Carolina at Charlotte,University of North Carolina at Charlotte,0,0,exact name
+227216,American Athletic Conference,D1,University of North Texas,University of North Texas,0,0,exact name
+137351,American Athletic Conference,D1,University of South Florida,University of South Florida,0,0,exact name
+207971,American Athletic Conference,D1,The University of Tulsa,University of Tulsa,0,0,exact name
+156125,American Athletic Conference,D1,Wichita State University,Wichita State University,0,0,exact name
+198385,Atlantic 10 Conference,D1,Davidson College,Davidson College,0,0,exact name
+212106,Atlantic 10 Conference,D1,Duquesne University of the Holy Spirit,Duquesne University,0,0,exact name
+191241,Atlantic 10 Conference,D1,Fordham University,Fordham University,0,0,exact name
+232186,Atlantic 10 Conference,D1,George Mason University,George Mason University,0,0,exact name
+131469,Atlantic 10 Conference,D1,The George Washington University,George Washington University,0,0,exact name
+213367,Atlantic 10 Conference,D1,La Salle University,La Salle University,0,0,exact name
+146719,Atlantic 10 Conference,D1,Loyola University Chicago,Loyola University Chicago,0,0,exact name
+215770,Atlantic 10 Conference,D1,Saint Joseph's University,Saint Joseph's University - Philadelphia,0,0,name and city
+179159,Atlantic 10 Conference,D1,Saint Louis University,Saint Louis University,0,0,exact name
+195164,Atlantic 10 Conference,D1,Saint Bonaventure University,St Bonaventure University,0,0,exact name
+202480,Atlantic 10 Conference,D1,University of Dayton,University of Dayton,0,0,exact name
+166629,Atlantic 10 Conference,D1,University of Massachusetts Amherst,University of Massachusetts-Amherst,0,0,exact name
+217484,Atlantic 10 Conference,D1,University of Rhode Island,University of Rhode Island,0,0,exact name
+233374,Atlantic 10 Conference,D1,University of Richmond,University of Richmond,0,0,exact name
+234030,Atlantic 10 Conference,D1,Virginia Commonwealth University,Virginia Commonwealth University,0,0,exact name
+164924,Atlantic Coast Conference,D1,Boston College,Boston College,0,0,exact name
+217882,Atlantic Coast Conference,D1,Clemson University,Clemson University,0,0,exact name
+198419,Atlantic Coast Conference,D1,Duke University,Duke University,0,0,exact name
+134097,Atlantic Coast Conference,D1,Florida State University,Florida State University,0,0,exact name
+139755,Atlantic Coast Conference,D1,Georgia Institute of Technology,Georgia Institute of Technology-Main Campus,0,0,exact name
+199193,Atlantic Coast Conference,D1,North Carolina State University,North Carolina State University at Raleigh,0,0,name and city
+228246,Atlantic Coast Conference,D1,Southern Methodist University,Southern Methodist University,0,0,exact name
+243744,Atlantic Coast Conference,D1,Leland Stanford Junior University,Stanford University,0,0,exact name
+196413,Atlantic Coast Conference,D1,Syracuse University,Syracuse University,0,0,exact name
+110635,Atlantic Coast Conference,D1,"University of California, Berkeley",University of California-Berkeley,0,0,exact name
+157289,Atlantic Coast Conference,D1,University of Louisville,University of Louisville,0,0,exact name
+135726,Atlantic Coast Conference,D1,University of Miami,University of Miami,0,0,exact name
+199120,Atlantic Coast Conference,D1,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,0,0,exact name
+152080,Atlantic Coast Conference,D1,University of Notre Dame du Lac,University of Notre Dame,0,0,exact name
+215293,Atlantic Coast Conference,D1,University of Pittsburgh,University of Pittsburgh-Pittsburgh Campus,0,0,exact name
+234076,Atlantic Coast Conference,D1,University of Virginia,University of Virginia-Main Campus,0,0,exact name
+233921,Atlantic Coast Conference,D1,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,0,0,exact name
+199847,Atlantic Coast Conference,D1,Wake Forest University,Wake Forest University,0,0,exact name
+219602,Atlantic Sun Conference,D1,Austin Peay State University,Austin Peay State University,0,0,exact name
+156286,Atlantic Sun Conference,D1,Bellarmine University,Bellarmine University,0,0,exact name
+156620,Atlantic Sun Conference,D1,Eastern Kentucky University,Eastern Kentucky University,0,0,exact name
+433660,Atlantic Sun Conference,D1,Florida Gulf Coast University,Florida Gulf Coast University,0,0,exact name
+134945,Atlantic Sun Conference,D1,Jacksonville University,Jacksonville University,0,0,exact name
+219976,Atlantic Sun Conference,D1,Lipscomb University,Lipscomb University,0,0,exact name
+199412,Atlantic Sun Conference,D1,Queens University of Charlotte,Queens University of Charlotte,0,1,exact name
+137546,Atlantic Sun Conference,D1,Stetson University,Stetson University,0,0,exact name
+106704,Atlantic Sun Conference,D1,University of Central Arkansas,University of Central Arkansas,0,0,exact name
+101879,Atlantic Sun Conference,D1,University of North Alabama,University of North Alabama,0,0,exact name
+136172,Atlantic Sun Conference,D1,University of North Florida,University of North Florida,0,0,exact name
+141334,Atlantic Sun Conference,D1,University of West Georgia,University of West Georgia,0,1,exact name
+104151,Big 12 Conference,D1,Arizona State University,Arizona State University Campus Immersion,0,0,name and city
+223232,Big 12 Conference,D1,Baylor University,Baylor University,0,0,exact name
+230038,Big 12 Conference,D1,Brigham Young University,Brigham Young University,0,0,exact name
+153603,Big 12 Conference,D1,Iowa State University of Science and Technology,Iowa State University,0,0,exact name
+155399,Big 12 Conference,D1,Kansas State University,Kansas State University,0,0,exact name
+207388,Big 12 Conference,D1,Oklahoma State University–Stillwater,Oklahoma State University-Main Campus,0,0,exact name
+228875,Big 12 Conference,D1,Texas Christian University,Texas Christian University,0,0,exact name
+229115,Big 12 Conference,D1,Texas Tech University,Texas Tech University,0,0,exact name
+104179,Big 12 Conference,D1,University of Arizona,University of Arizona,0,0,exact name
+132903,Big 12 Conference,D1,University of Central Florida,University of Central Florida,0,0,exact name
+201885,Big 12 Conference,D1,University of Cincinnati,University of Cincinnati-Main Campus,0,0,exact name
+126614,Big 12 Conference,D1,University of Colorado Boulder,University of Colorado Boulder,0,0,exact name
+225511,Big 12 Conference,D1,University of Houston,University of Houston,0,0,exact name
+155317,Big 12 Conference,D1,University of Kansas,University of Kansas,0,0,exact name
+230764,Big 12 Conference,D1,University of Utah,University of Utah,0,0,exact name
+238032,Big 12 Conference,D1,West Virginia University,West Virginia University,0,0,exact name
+150163,Big East Conference,D1,Butler University,Butler University,0,0,exact name
+181002,Big East Conference,D1,Creighton University,Creighton University,0,0,exact name
+144740,Big East Conference,D1,DePaul University,DePaul University,0,0,exact name
+131496,Big East Conference,D1,Georgetown University,Georgetown University,0,0,exact name
+239105,Big East Conference,D1,Marquette University,Marquette University,0,0,exact name
+217402,Big East Conference,D1,Providence College,Providence College,0,0,exact name
+186584,Big East Conference,D1,Seton Hall University,Seton Hall University,0,0,exact name
+195809,Big East Conference,D1,Saint John's University,St. John's University-New York,0,0,name and city
+129020,Big East Conference,D1,University of Connecticut,University of Connecticut,0,0,exact name
+216597,Big East Conference,D1,Villanova University,Villanova University,0,0,exact name
+206622,Big East Conference,D1,Xavier University,Xavier University,0,0,exact name
+110617,Big Sky Conference,D1,"California State University, Sacramento",California State University-Sacramento,0,0,exact name
+235097,Big Sky Conference,D1,Eastern Washington University,Eastern Washington University,0,0,exact name
+142276,Big Sky Conference,D1,Idaho State University,Idaho State University,0,0,exact name
+180461,Big Sky Conference,D1,Montana State University,Montana State University,0,0,exact name
+105330,Big Sky Conference,D1,Northern Arizona University,Northern Arizona University,0,0,exact name
+209807,Big Sky Conference,D1,Portland State University,Portland State University,0,0,exact name
+180489,Big Sky Conference,D1,University of Montana,The University of Montana,0,0,exact name
+142285,Big Sky Conference,D1,University of Idaho,University of Idaho,0,0,exact name
+127741,Big Sky Conference,D1,University of Northern Colorado,University of Northern Colorado,0,0,exact name
+230782,Big Sky Conference,D1,Weber State University,Weber State University,0,0,exact name
+217688,Big South Conference,D1,Charleston Southern University,Charleston Southern University,0,0,exact name
+198561,Big South Conference,D1,Gardner–Webb University,Gardner-Webb University,0,0,exact name
+198695,Big South Conference,D1,High Point University,High Point University,0,0,exact name
+232566,Big South Conference,D1,Longwood University,Longwood University,0,0,exact name
+218539,Big South Conference,D1,Presbyterian College,Presbyterian College,1,0,exact name
+233277,Big South Conference,D1,Radford University,Radford University,0,0,exact name
+199111,Big South Conference,D1,University of North Carolina at Asheville,University of North Carolina Asheville,0,0,exact name
+218742,Big South Conference,D1,University of South Carolina Upstate,University of South Carolina-Upstate,0,0,exact name
+218964,Big South Conference,D1,Winthrop University,Winthrop University,0,0,exact name
+151351,Big Ten Conference,D1,Indiana University Bloomington,Indiana University-Bloomington,0,0,exact name
+171100,Big Ten Conference,D1,Michigan State University,Michigan State University,0,0,exact name
+147767,Big Ten Conference,D1,Northwestern University,Northwestern University,0,0,exact name
+204796,Big Ten Conference,D1,The Ohio State University,Ohio State University-Main Campus,0,0,exact name
+214777,Big Ten Conference,D1,The Pennsylvania State University,Pennsylvania State University-Main Campus,0,0,exact name
+243780,Big Ten Conference,D1,Purdue University,Purdue University-Main Campus,0,0,exact name
+186380,Big Ten Conference,D1,Rutgers University–New Brunswick,Rutgers University-New Brunswick,0,0,exact name
+110662,Big Ten Conference,D1,"University of California, Los Angeles",University of California-Los Angeles,0,0,exact name
+145637,Big Ten Conference,D1,University of Illinois Urbana-Champaign,University of Illinois Urbana-Champaign,0,0,exact name
+153658,Big Ten Conference,D1,State University of Iowa,University of Iowa,0,0,exact name
+163286,Big Ten Conference,D1,"University of Maryland, College Park",University of Maryland-College Park,0,0,exact name
+170976,Big Ten Conference,D1,University of Michigan,University of Michigan-Ann Arbor,0,0,only school of this division in the city
+174066,Big Ten Conference,D1,University of Minnesota,University of Minnesota-Twin Cities,0,0,only school of this division in the city
+181464,Big Ten Conference,D1,University of Nebraska–Lincoln,University of Nebraska-Lincoln,0,0,exact name
+209551,Big Ten Conference,D1,University of Oregon,University of Oregon,0,0,exact name
+123961,Big Ten Conference,D1,University of Southern California,University of Southern California,0,0,exact name
+236948,Big Ten Conference,D1,University of Washington,University of Washington-Seattle Campus,0,0,name and city
+240444,Big Ten Conference,D1,University of Wisconsin–Madison,University of Wisconsin-Madison,0,0,exact name
+110422,Big West Conference,D1,California Polytechnic State University,California Polytechnic State University-San Luis Obispo,0,0,only school of this division in the city
+110486,Big West Conference,D1,"California State University, Bakersfield",California State University-Bakersfield,0,0,exact name
+110565,Big West Conference,D1,"California State University, Fullerton",California State University-Fullerton,0,0,exact name
+110583,Big West Conference,D1,"California State University, Long Beach",California State University-Long Beach,0,0,exact name
+110608,Big West Conference,D1,"California State University, Northridge",California State University-Northridge,0,0,exact name
+110644,Big West Conference,D1,"University of California, Davis",University of California-Davis,0,0,exact name
+110653,Big West Conference,D1,"University of California, Irvine",University of California-Irvine,0,0,exact name
+110671,Big West Conference,D1,"University of California, Riverside",University of California-Riverside,0,0,exact name
+110680,Big West Conference,D1,"University of California, San Diego",University of California-San Diego,0,0,exact name
+110705,Big West Conference,D1,"University of California, Santa Barbara",University of California-Santa Barbara,0,0,exact name
+141574,Big West Conference,D1,University of Hawaiʻi at Mānoa,University of Hawaii at Manoa,0,0,exact name
+198136,Coastal Athletic Association,D1,Campbell University,Campbell University,0,0,exact name
+217819,Coastal Athletic Association,D1,College of Charleston,College of Charleston,0,0,exact name
+212054,Coastal Athletic Association,D1,Drexel University,Drexel University,0,0,exact name
+198516,Coastal Athletic Association,D1,Elon University,Elon University,0,0,exact name
+232265,Coastal Athletic Association,D1,Hampton University,Hampton University,0,0,exact name
+191649,Coastal Athletic Association,D1,Hofstra University,Hofstra University,0,0,exact name
+185572,Coastal Athletic Association,D1,Monmouth University,Monmouth University,0,0,exact name
+199102,Coastal Athletic Association,D1,North Carolina Agricultural and Technical State University,North Carolina A & T State University,0,0,name and city
+167358,Coastal Athletic Association,D1,Northeastern University,Northeastern University,0,0,exact name
+196097,Coastal Athletic Association,D1,State University of New York at Stony Brook,Stony Brook University,0,0,exact name
+164076,Coastal Athletic Association,D1,Towson University,Towson University,0,0,exact name
+130943,Coastal Athletic Association,D1,University of Delaware,University of Delaware,0,0,exact name
+199218,Coastal Athletic Association,D1,University of North Carolina at Wilmington,University of North Carolina Wilmington,0,0,exact name
+231624,Coastal Athletic Association,D1,The College of William and Mary in Virginia,William & Mary,0,0,exact name
+133951,Conference USA,D1,Florida International University,Florida International University,1,0,exact name
+101480,Conference USA,D1,Jacksonville State University,Jacksonville State University,0,0,exact name
+486840,Conference USA,D1,Kennesaw State University,Kennesaw State University,0,0,exact name
+232557,Conference USA,D1,Liberty University,Liberty University,0,0,exact name
+159647,Conference USA,D1,Louisiana Tech University,Louisiana Tech University,0,0,exact name
+220978,Conference USA,D1,Middle Tennessee State University,Middle Tennessee State University,0,0,exact name
+188030,Conference USA,D1,New Mexico State University,New Mexico State University-Main Campus,0,0,exact name
+227881,Conference USA,D1,Sam Houston State University,Sam Houston State University,0,0,exact name
+228796,Conference USA,D1,The University of Texas at El Paso,The University of Texas at El Paso,0,0,exact name
+157951,Conference USA,D1,Western Kentucky University,Western Kentucky University,0,0,exact name
+202134,Horizon League,D1,Cleveland State University,Cleveland State University,0,0,exact name
+151111,Horizon League,D1,Indiana University Indianapolis,Indiana University-Indianapolis,0,0,exact name
+157447,Horizon League,D1,Northern Kentucky University,Northern Kentucky University,0,0,exact name
+171571,Horizon League,D1,Oakland University,Oakland University,0,0,exact name
+151102,Horizon League,D1,Purdue University Fort Wayne,Purdue University Fort Wayne,0,0,exact name
+215655,Horizon League,D1,Robert Morris University,Robert Morris University,0,0,exact name
+169716,Horizon League,D1,University of Detroit Mercy,University of Detroit Mercy,0,0,exact name
+240277,Horizon League,D1,University of Wisconsin–Green Bay,University of Wisconsin-Green Bay,0,0,exact name
+240453,Horizon League,D1,University of Wisconsin–Milwaukee,University of Wisconsin-Milwaukee,0,0,exact name
+206604,Horizon League,D1,Wright State University,Wright State University-Main Campus,0,0,exact name
+206695,Horizon League,D1,Youngstown State University,Youngstown State University,0,0,exact name
+217156,Ivy League,D1,Brown University,Brown University,0,0,exact name
+190150,Ivy League,D1,Columbia University in the City of New York,Columbia University in the City of New York,0,0,exact name
+190415,Ivy League,D1,Cornell University,Cornell University,0,0,exact name
+182670,Ivy League,D1,Dartmouth College,Dartmouth College,0,0,exact name
+166027,Ivy League,D1,Harvard University,Harvard University,0,0,exact name
+186131,Ivy League,D1,Princeton University,Princeton University,0,0,exact name
+215062,Ivy League,D1,University of Pennsylvania,University of Pennsylvania,0,0,exact name
+130794,Ivy League,D1,Yale University,Yale University,0,0,exact name
+189705,Metro Atlantic Athletic Conference,D1,Canisius University,Canisius University,0,0,exact name
+129242,Metro Atlantic Athletic Conference,D1,Fairfield University,Fairfield University,0,0,exact name
+191931,Metro Atlantic Athletic Conference,D1,Iona University,Iona University,0,0,exact name
+192703,Metro Atlantic Athletic Conference,D1,Manhattan University,Manhattan University,0,0,exact name
+192819,Metro Atlantic Athletic Conference,D1,Marist College,Marist University,0,0,exact name
+166850,Metro Atlantic Athletic Conference,D1,Merrimack College,Merrimack College,0,0,exact name
+163462,Metro Atlantic Athletic Conference,D1,Mount Saint Mary's University,Mount St. Mary's University,0,0,exact name
+193973,Metro Atlantic Athletic Conference,D1,Niagara University,Niagara University,0,0,exact name
+130226,Metro Atlantic Athletic Conference,D1,Quinnipiac University,Quinnipiac University,0,0,exact name
+186283,Metro Atlantic Athletic Conference,D1,Rider University,Rider University,0,0,exact name
+130253,Metro Atlantic Athletic Conference,D1,Sacred Heart University,Sacred Heart University,0,0,exact name
+186432,Metro Atlantic Athletic Conference,D1,Saint Peter's University,Saint Peter's University,0,0,exact name
+195474,Metro Atlantic Athletic Conference,D1,Siena College,Siena College,0,0,exact name
+150136,Mid-American Conference,D1,Ball State University,Ball State University,0,0,exact name
+201441,Mid-American Conference,D1,Bowling Green State University,Bowling Green State University-Main Campus,0,0,exact name
+169248,Mid-American Conference,D1,Central Michigan University,Central Michigan University,0,0,exact name
+169798,Mid-American Conference,D1,Eastern Michigan University,Eastern Michigan University,0,0,exact name
+203517,Mid-American Conference,D1,Kent State University,Kent State University at Kent,0,0,exact name
+204024,Mid-American Conference,D1,Miami University,Miami University-Oxford,0,0,name and city
+147703,Mid-American Conference,D1,Northern Illinois University,Northern Illinois University,0,0,exact name
+204857,Mid-American Conference,D1,The Ohio University,Ohio University-Main Campus,0,0,exact name
+196088,Mid-American Conference,D1,State University of New York at Buffalo,University at Buffalo,0,0,exact name
+200800,Mid-American Conference,D1,The University of Akron,University of Akron Main Campus,0,0,exact name
+206084,Mid-American Conference,D1,University of Toledo,University of Toledo,0,0,exact name
+172699,Mid-American Conference,D1,Western Michigan University,Western Michigan University,0,0,exact name
+162283,Mid-Eastern Athletic Conference,D1,Coppin State University,Coppin State University,0,0,exact name
+130934,Mid-Eastern Athletic Conference,D1,Delaware State University,Delaware State University,0,0,exact name
+131520,Mid-Eastern Athletic Conference,D1,Howard University,Howard University,0,0,exact name
+163453,Mid-Eastern Athletic Conference,D1,Morgan State University,Morgan State University,0,0,exact name
+232937,Mid-Eastern Athletic Conference,D1,Norfolk State University,Norfolk State University,0,0,exact name
+199157,Mid-Eastern Athletic Conference,D1,North Carolina Central University,North Carolina Central University,0,0,exact name
+218733,Mid-Eastern Athletic Conference,D1,South Carolina State University,South Carolina State University,0,0,exact name
+163338,Mid-Eastern Athletic Conference,D1,University of Maryland Eastern Shore,University of Maryland Eastern Shore,0,0,exact name
+219709,Missouri Valley Conference,D1,Belmont University,Belmont University,0,0,exact name
+143358,Missouri Valley Conference,D1,Bradley University,Bradley University,0,0,exact name
+153269,Missouri Valley Conference,D1,Drake University,Drake University,0,0,exact name
+145813,Missouri Valley Conference,D1,Illinois State University,Illinois State University,0,0,exact name
+151324,Missouri Valley Conference,D1,Indiana State University,Indiana State University,0,0,exact name
+179566,Missouri Valley Conference,D1,Missouri State University,Missouri State University-Springfield,0,0,name and city
+157401,Missouri Valley Conference,D1,Murray State University,Murray State University,0,0,exact name
+149222,Missouri Valley Conference,D1,Southern Illinois University Carbondale,Southern Illinois University-Carbondale,0,0,exact name
+150534,Missouri Valley Conference,D1,University of Evansville,University of Evansville,0,0,exact name
+145600,Missouri Valley Conference,D1,University of Illinois Chicago,University of Illinois Chicago,0,0,exact name
+154095,Missouri Valley Conference,D1,University of Northern Iowa,University of Northern Iowa,0,0,exact name
+152600,Missouri Valley Conference,D1,Valparaiso University,Valparaiso University,0,0,exact name
+142115,Mountain West Conference,D1,Boise State University,Boise State University,0,0,exact name
+110556,Mountain West Conference,D1,"California State University, Fresno",California State University-Fresno,0,0,exact name
+126818,Mountain West Conference,D1,Colorado State University,Colorado State University-Fort Collins,0,0,name and city
+122409,Mountain West Conference,D1,San Diego State University,San Diego State University,0,0,exact name
+122755,Mountain West Conference,D1,San Jose State University,San Jose State University,0,0,exact name
+182281,Mountain West Conference,D1,"University of Nevada, Las Vegas",University of Nevada-Las Vegas,0,0,exact name
+182290,Mountain West Conference,D1,"University of Nevada, Reno",University of Nevada-Reno,0,0,exact name
+187985,Mountain West Conference,D1,The University of New Mexico,University of New Mexico-Main Campus,0,0,exact name
+240727,Mountain West Conference,D1,University of Wyoming,University of Wyoming,0,0,exact name
+230728,Mountain West Conference,D1,Utah State University,Utah State University,0,0,exact name
+128771,Northeast Conference,D1,Central Connecticut State University,Central Connecticut State University,0,0,exact name
+144005,Northeast Conference,D1,Chicago State University,Chicago State University,0,0,exact name
+184603,Northeast Conference,D1,Fairleigh Dickinson University,Fairleigh Dickinson University-Metropolitan Campus,0,0,override: the Division I program is the Metropolitan Campus; the Florham Campus competes in Division III
+192323,Northeast Conference,D1,Le Moyne College,Le Moyne College,0,1,exact name
+192448,Northeast Conference,D1,Long Island University,Long Island University,0,0,exact name
+213987,Northeast Conference,D1,Mercyhurst University,Mercyhurst University,0,1,exact name
+215743,Northeast Conference,D1,Saint Francis University,Saint Francis University,0,0,exact name
+167996,Northeast Conference,D1,Stonehill College,Stonehill College,0,1,exact name
+197197,Northeast Conference,D1,Wagner College,Wagner College,0,0,exact name
+144892,Ohio Valley Conference,D1,Eastern Illinois University,Eastern Illinois University,0,0,exact name
+177968,Ohio Valley Conference,D1,Lindenwood University,Lindenwood University,0,1,exact name
+157386,Ohio Valley Conference,D1,Morehead State University,Morehead State University,0,0,exact name
+179557,Ohio Valley Conference,D1,Southeast Missouri State University,Southeast Missouri State University,0,0,exact name
+149231,Ohio Valley Conference,D1,Southern Illinois University Edwardsville,Southern Illinois University Edwardsville,0,0,exact name
+221838,Ohio Valley Conference,D1,Tennessee State University,Tennessee State University,0,0,exact name
+221847,Ohio Valley Conference,D1,Tennessee Technological University,Tennessee Technological University,0,0,exact name
+221768,Ohio Valley Conference,D1,The University of Tennessee at Martin,The University of Tennessee-Martin,0,0,exact name
+106245,Ohio Valley Conference,D1,University of Arkansas at Little Rock,University of Arkansas at Little Rock,0,0,exact name
+151306,Ohio Valley Conference,D1,University of Southern Indiana / University of Southern Indiana,University of Southern Indiana,1,1,override: Division I member of the Ohio Valley Conference since 2022; EADA classification lags
+149772,Ohio Valley Conference,D1,Western Illinois University,Western Illinois University,0,0,exact name
+209542,Pac-12 Conference,D1,Oregon State University,Oregon State University,0,0,exact name
+236939,Pac-12 Conference,D1,Washington State University,Washington State University,0,0,exact name
+131159,Patriot League,D1,American University,American University,0,0,exact name
+164988,Patriot League,D1,Boston University,Boston University,0,0,exact name
+211291,Patriot League,D1,Bucknell University,Bucknell University,0,0,exact name
+190099,Patriot League,D1,Colgate University,Colgate University,0,0,exact name
+166124,Patriot League,D1,College of the Holy Cross,College of the Holy Cross,0,0,exact name
+213385,Patriot League,D1,Lafayette College,Lafayette College,0,0,exact name
+213543,Patriot League,D1,Lehigh University,Lehigh University,0,0,exact name
+163046,Patriot League,D1,Loyola University Maryland,Loyola University Maryland,0,0,exact name
+100858,Southeastern Conference,D1,Auburn University,Auburn University,0,0,exact name
+159391,Southeastern Conference,D1,Louisiana State University and Agricultural and Mechanical College,Louisiana State University and Agricultural & Mechanical College,0,0,override: name spelled with an ampersand in EADA
+176080,Southeastern Conference,D1,Mississippi State University,Mississippi State University,0,0,exact name
+228723,Southeastern Conference,D1,Texas A&M University,Texas A&M University-College Station,0,0,name and city
+100751,Southeastern Conference,D1,The University of Alabama,The University of Alabama,0,0,exact name
+221759,Southeastern Conference,D1,"The University of Tennessee, Knoxville",The University of Tennessee-Knoxville,0,0,exact name
+228778,Southeastern Conference,D1,The University of Texas at Austin,The University of Texas at Austin,0,0,exact name
+106397,Southeastern Conference,D1,University of Arkansas,University of Arkansas,0,0,exact name
+134130,Southeastern Conference,D1,University of Florida,University of Florida,0,0,exact name
+139959,Southeastern Conference,D1,University of Georgia,University of Georgia,0,0,exact name
+157085,Southeastern Conference,D1,University of Kentucky,University of Kentucky,0,0,exact name
+176017,Southeastern Conference,D1,The University of Mississippi,University of Mississippi,0,0,exact name
+178396,Southeastern Conference,D1,University of Missouri–Columbia,University of Missouri-Columbia,0,0,exact name
+207500,Southeastern Conference,D1,University of Oklahoma,University of Oklahoma-Norman Campus,0,0,name and city
+218663,Southeastern Conference,D1,University of South Carolina,University of South Carolina-Columbia,0,0,name and city
+221999,Southeastern Conference,D1,Vanderbilt University,Vanderbilt University,0,0,exact name
+217864,Southern Conference,D1,"The Citadel, The Military College of South Carolina",Citadel Military College of South Carolina,0,0,exact name
+220075,Southern Conference,D1,East Tennessee State University,East Tennessee State University,0,0,exact name
+218070,Southern Conference,D1,Furman University,Furman University,0,0,exact name
+140447,Southern Conference,D1,Mercer University,Mercer University,0,0,exact name
+102049,Southern Conference,D1,Samford University,Samford University,0,0,exact name
+221740,Southern Conference,D1,The University of Tennessee at Chattanooga,The University of Tennessee-Chattanooga,0,0,exact name
+199148,Southern Conference,D1,University of North Carolina at Greensboro,University of North Carolina at Greensboro,0,0,exact name
+234085,Southern Conference,D1,Virginia Military Institute,Virginia Military Institute,0,0,exact name
+200004,Southern Conference,D1,Western Carolina University,Western Carolina University,0,0,exact name
+218973,Southern Conference,D1,Wofford College,Wofford College,0,0,exact name
+224554,Southland Conference,D1,East Texas A&M University,East Texas A&M University,0,1,exact name
+225399,Southland Conference,D1,Houston Christian University,Houston Christian University,0,0,exact name
+226091,Southland Conference,D1,Lamar University,Lamar University,0,0,exact name
+159717,Southland Conference,D1,McNeese State University,McNeese State University,0,0,exact name
+159966,Southland Conference,D1,Nicholls State University,Nicholls State University,0,0,exact name
+160038,Southland Conference,D1,Northwestern State University of Louisiana,Northwestern State University of Louisiana,0,0,exact name
+160612,Southland Conference,D1,Southeastern Louisiana University,Southeastern Louisiana University,0,0,exact name
+228431,Southland Conference,D1,Stephen F. Austin State University,Stephen F Austin State University,0,0,exact name
+224147,Southland Conference,D1,Texas A&M University–Corpus Christi,Texas A & M University-Corpus Christi,0,0,name and city
+227368,Southland Conference,D1,The University of Texas Rio Grande Valley,The University of Texas Rio Grande Valley,0,0,exact name
+159939,Southland Conference,D1,University of New Orleans,University of New Orleans,0,0,exact name
+225627,Southland Conference,D1,University of the Incarnate Word,University of the Incarnate Word,0,0,exact name
+100654,Southwestern Athletic Conference,D1,Alabama Agricultural and Mechanical University,Alabama A & M University,0,0,only school of this division in the city
+100724,Southwestern Athletic Conference,D1,Alabama State University,Alabama State University,0,0,exact name
+175342,Southwestern Athletic Conference,D1,Alcorn State University,Alcorn State University,0,0,exact name
+132602,Southwestern Athletic Conference,D1,Bethune–Cookman University,Bethune-Cookman University,0,0,exact name
+133650,Southwestern Athletic Conference,D1,Florida Agricultural and Mechanical University,Florida Agricultural and Mechanical University,0,0,exact name
+159009,Southwestern Athletic Conference,D1,Grambling State University,Grambling State University,0,0,exact name
+175856,Southwestern Athletic Conference,D1,Jackson State University,Jackson State University,0,0,exact name
+176044,Southwestern Athletic Conference,D1,Mississippi Valley State University,Mississippi Valley State University,0,0,exact name
+227526,Southwestern Athletic Conference,D1,Prairie View A&M University,Prairie View A & M University,0,0,name and city
+160621,Southwestern Athletic Conference,D1,Southern University and A&M College,Southern University and A & M College,0,0,name and city
+229063,Southwestern Athletic Conference,D1,Texas Southern University,Texas Southern University,0,0,exact name
+106412,Southwestern Athletic Conference,D1,University of Arkansas at Pine Bluff,University of Arkansas at Pine Bluff,0,0,exact name
+200332,Summit League,D1,North Dakota State University of Agriculture and Applied Sciences,North Dakota State University-Main Campus,0,0,exact name
+207582,Summit League,D1,Oral Roberts University,Oral Roberts University,0,0,exact name
+219356,Summit League,D1,South Dakota State University,South Dakota State University,0,0,exact name
+127060,Summit League,D1,University of Denver,University of Denver,0,0,exact name
+178402,Summit League,D1,University of Missouri–Kansas City,University of Missouri-Kansas City,0,0,exact name
+181394,Summit League,D1,University of Nebraska Omaha,University of Nebraska at Omaha,0,0,exact name
+200280,Summit League,D1,University of North Dakota,University of North Dakota,0,0,exact name
+219471,Summit League,D1,University of South Dakota,University of South Dakota,0,0,exact name
+174914,Summit League,D1,University of Saint Thomas,University of St Thomas,0,1,exact name
+197869,Sun Belt Conference,D1,Appalachian State University,Appalachian State University,0,0,exact name
+106458,Sun Belt Conference,D1,Arkansas State University,Arkansas State University,0,0,exact name
+218724,Sun Belt Conference,D1,Coastal Carolina University,Coastal Carolina University,0,0,exact name
+139931,Sun Belt Conference,D1,Georgia Southern University,Georgia Southern University,0,0,exact name
+139940,Sun Belt Conference,D1,Georgia State University,Georgia State University,0,0,exact name
+232423,Sun Belt Conference,D1,James Madison University,James Madison University,0,0,exact name
+237525,Sun Belt Conference,D1,Marshall University,Marshall University,0,0,exact name
+232982,Sun Belt Conference,D1,Old Dominion University,Old Dominion University,0,0,exact name
+228459,Sun Belt Conference,D1,Texas State University,Texas State University,0,0,exact name
+102368,Sun Belt Conference,D1,Troy University,Troy University,0,0,exact name
+160658,Sun Belt Conference,D1,University of Louisiana at Lafayette,University of Louisiana at Lafayette,0,0,exact name
+159993,Sun Belt Conference,D1,University of Louisiana at Monroe,University of Louisiana at Monroe,0,0,exact name
+102094,Sun Belt Conference,D1,University of South Alabama,University of South Alabama,0,0,exact name
+176372,Sun Belt Conference,D1,University of Southern Mississippi,University of Southern Mississippi,0,0,exact name
+235316,West Coast Conference,D1,Gonzaga University,Gonzaga University,0,0,exact name
+117946,West Coast Conference,D1,Loyola Marymount University,Loyola Marymount University,0,0,exact name
+121150,West Coast Conference,D1,Pepperdine University,Pepperdine University,0,0,exact name
+123554,West Coast Conference,D1,Saint Mary's College of California,Saint Mary's College of California,0,0,exact name
+122931,West Coast Conference,D1,Santa Clara University,Santa Clara University,0,0,exact name
+209825,West Coast Conference,D1,University of Portland,University of Portland,0,0,exact name
+122436,West Coast Conference,D1,University of San Diego,University of San Diego,0,0,exact name
+122612,West Coast Conference,D1,University of San Francisco,University of San Francisco,0,0,exact name
+120883,West Coast Conference,D1,University of the Pacific,University of the Pacific,0,0,exact name
+222178,Western Athletic Conference,D1,Abilene Christian University,Abilene Christian University,0,0,exact name
+110361,Western Athletic Conference,D1,California Baptist University,California Baptist University,0,0,exact name
+104717,Western Athletic Conference,D1,Grand Canyon University,Grand Canyon University,0,0,exact name
+236595,Western Athletic Conference,D1,Seattle University,Seattle University,0,0,exact name
+230603,Western Athletic Conference,D1,Southern Utah University,Southern Utah University,0,0,exact name
+228529,Western Athletic Conference,D1,Tarleton State University,Tarleton State University,0,0,exact name
+228769,Western Athletic Conference,D1,The University of Texas at Arlington,The University of Texas at Arlington,0,0,exact name
+230171,Western Athletic Conference,D1,Utah Tech University,Utah Tech University,0,0,exact name
+230737,Western Athletic Conference,D1,Utah Valley University,Utah Valley University,0,0,exact name
+115755,California Collegiate Athletic Association,D2,"California State Polytechnic University, Humboldt",California State Polytechnic University-Humboldt,0,0,exact name
+110529,California Collegiate Athletic Association,D2,"California State Polytechnic University, Pomona",California State Polytechnic University-Pomona,0,0,exact name
+110538,California Collegiate Athletic Association,D2,"California State University, Chico",California State University-Chico,0,0,exact name
+110547,California Collegiate Athletic Association,D2,"California State University, Dominguez Hills",California State University-Dominguez Hills,0,0,exact name
+110574,California Collegiate Athletic Association,D2,"California State University, East Bay",California State University-East Bay,0,0,exact name
+110592,California Collegiate Athletic Association,D2,"California State University, Los Angeles",California State University-Los Angeles,0,0,exact name
+409698,California Collegiate Athletic Association,D2,"California State University, Monterey Bay",California State University-Monterey Bay,0,0,exact name
+110510,California Collegiate Athletic Association,D2,"California State University, San Bernardino",California State University-San Bernardino,0,0,exact name
+366711,California Collegiate Athletic Association,D2,California State University San Marcos,California State University-San Marcos,0,0,exact name
+110495,California Collegiate Athletic Association,D2,"California State University, Stanislaus",California State University-Stanislaus,0,0,exact name
+122597,California Collegiate Athletic Association,D2,San Francisco State University,San Francisco State University,0,0,exact name
+123572,California Collegiate Athletic Association,D2,Sonoma State University,Sonoma State University,0,0,exact name
+183822,Central Atlantic Collegiate Conference,D2,Bloomfield College,Bloomfield College of Montclair State University,0,0,city and partial name
+183910,Central Atlantic Collegiate Conference,D2,Caldwell University,Caldwell University,0,0,exact name
+211583,Central Atlantic Collegiate Conference,D2,Chestnut Hill College,Chestnut Hill College,0,0,exact name
+190761,Central Atlantic Collegiate Conference,D2,Dominican University New York,Dominican University New York,0,0,exact name
+184612,Central Atlantic Collegiate Conference,D2,Felician University,Felician University,0,0,exact name
+184773,Central Atlantic Collegiate Conference,D2,Georgian Court University,Georgian Court University,0,0,exact name
+130989,Central Atlantic Collegiate Conference,D2,Goldey-Beacom College,Goldey-Beacom College,0,0,exact name
+212984,Central Atlantic Collegiate Conference,D2,Holy Family University,Holy Family University,0,0,exact name
+130183,Central Atlantic Collegiate Conference,D2,Post University,Post University,0,0,exact name
+216366,Central Atlantic Collegiate Conference,D2,Thomas Jefferson University,Thomas Jefferson University,0,0,exact name
+128744,Central Atlantic Collegiate Conference,D2,University of Bridgeport,University of Bridgeport,0,0,exact name
+131113,Central Atlantic Collegiate Conference,D2,Wilmington University,Wilmington University,0,0,exact name
+237215,Central Intercollegiate Athletic Association,D2,Bluefield State University,Bluefield State University,0,0,exact name
+162007,Central Intercollegiate Athletic Association,D2,Bowie State University,Bowie State University,0,0,exact name
+217873,Central Intercollegiate Athletic Association,D2,Claflin University,Claflin University,0,0,exact name
+198507,Central Intercollegiate Athletic Association,D2,Elizabeth City State University,Elizabeth City State University,0,0,exact name
+198543,Central Intercollegiate Athletic Association,D2,Fayetteville State University,Fayetteville State University,0,0,exact name
+198756,Central Intercollegiate Athletic Association,D2,Johnson C. Smith University,Johnson C Smith University,0,0,exact name
+213598,Central Intercollegiate Athletic Association,D2,Lincoln University (PA),Lincoln University,0,0,name and city
+198862,Central Intercollegiate Athletic Association,D2,Livingstone College,Livingstone College,0,0,exact name
+199643,Central Intercollegiate Athletic Association,D2,Shaw University,Shaw University,0,0,exact name
+234155,Central Intercollegiate Athletic Association,D2,Virginia State University,Virginia State University,0,0,exact name
+234164,Central Intercollegiate Athletic Association,D2,Virginia Union University,Virginia Union University,0,0,exact name
+199999,Central Intercollegiate Athletic Association,D2,Winston-Salem State University,Winston-Salem State University,0,0,exact name
+197911,Conference Carolinas,D2,Barton College,Barton College,0,0,exact name
+197984,Conference Carolinas,D2,Belmont Abbey College,Belmont Abbey College,0,0,exact name
+198303,Conference Carolinas,D2,Chowan University,Chowan University,0,0,exact name
+217961,Conference Carolinas,D2,Converse University,Converse University,0,0,exact name
+139630,Conference Carolinas,D2,Emmanuel University,Emmanuel University,0,0,exact name
+217998,Conference Carolinas,D2,Erskine College,Erskine College,0,0,exact name
+218061,Conference Carolinas,D2,Francis Marion University,Francis Marion University,0,0,exact name
+220516,Conference Carolinas,D2,King University,King University,0,0,exact name
+198808,Conference Carolinas,D2,Lees-McRae College,Lees-McRae College,0,0,exact name
+218441,Conference Carolinas,D2,North Greenville University,North Greenville University,0,0,exact name
+140988,Conference Carolinas,D2,Shorter University,Shorter University,0,0,exact name
+217776,Conference Carolinas,D2,Southern Wesleyan University,Southern Wesleyan University,0,0,exact name
+199069,Conference Carolinas,D2,University of Mount Olive,University of Mount Olive,0,0,exact name
+199281,Conference Carolinas,D2,University of North Carolina at Pembroke,University of North Carolina at Pembroke,0,0,exact name
+141361,Conference Carolinas,D2,Young Harris College,Young Harris College,0,0,exact name
+190664,East Coast Conference,D2,Queens College,CUNY Queens College,0,0,name and state
+190558,East Coast Conference,D2,College of Staten Island,College of Staten Island CUNY,0,0,name and city
+190716,East Coast Conference,D2,D'Youville University,D'Youville  University,0,0,exact name
+190725,East Coast Conference,D2,Daemen University,Daemen University,0,0,exact name
+193016,East Coast Conference,D2,Mercy University,Mercy University,0,0,exact name
+193292,East Coast Conference,D2,Molloy University,Molloy University,0,0,exact name
+194958,East Coast Conference,D2,Roberts Wesleyan University,Roberts Wesleyan University,0,0,exact name
+195243,East Coast Conference,D2,St. Thomas Aquinas College,St. Thomas Aquinas College,0,0,exact name
+131399,East Coast Conference,D2,University of the District of Columbia,University of the District of Columbia,0,0,exact name
+106467,Great American Conference,D2,Arkansas Tech University,Arkansas Tech University,0,0,exact name
+207041,Great American Conference,D2,East Central University,East Central University,0,0,exact name
+107044,Great American Conference,D2,Harding University,Harding University,0,0,exact name
+107071,Great American Conference,D2,Henderson State University,Henderson State University,0,0,exact name
+207306,Great American Conference,D2,Northwestern Oklahoma State University,Northwestern Oklahoma State University,0,0,exact name
+207403,Great American Conference,D2,Oklahoma Baptist University,Oklahoma Baptist University,0,0,exact name
+107512,Great American Conference,D2,Ouachita Baptist University,Ouachita Baptist University,0,0,exact name
+207847,Great American Conference,D2,Southeastern Oklahoma State University,Southeastern Oklahoma State University,0,0,exact name
+107983,Great American Conference,D2,Southern Arkansas University,Southern Arkansas University Main Campus,0,0,exact name
+206862,Great American Conference,D2,Southern Nazarene University,Southern Nazarene University,0,0,exact name
+207865,Great American Conference,D2,Southwestern Oklahoma State University,Southwestern Oklahoma State University,0,0,exact name
+106485,Great American Conference,D2,University of Arkansas at Monticello,University of Arkansas at Monticello,0,0,exact name
+169479,Great Lakes Intercollegiate Athletic Conference,D2,Davenport University,Davenport University,0,0,exact name
+169910,Great Lakes Intercollegiate Athletic Conference,D2,Ferris State University,Ferris State University,1,0,exact name
+170082,Great Lakes Intercollegiate Athletic Conference,D2,Grand Valley State University,Grand Valley State University,0,0,exact name
+170639,Great Lakes Intercollegiate Athletic Conference,D2,Lake Superior State University,Lake Superior State University,0,0,exact name
+171128,Great Lakes Intercollegiate Athletic Conference,D2,Michigan Technological University,Michigan Technological University,0,0,exact name
+171456,Great Lakes Intercollegiate Athletic Conference,D2,Northern Michigan University,Northern Michigan University,0,0,exact name
+490805,Great Lakes Intercollegiate Athletic Conference,D2,Purdue University Northwest,Purdue University Northwest,0,0,exact name
+148487,Great Lakes Intercollegiate Athletic Conference,D2,Roosevelt University,Roosevelt University,0,1,exact name
+172051,Great Lakes Intercollegiate Athletic Conference,D2,Saginaw Valley State University,Saginaw Valley State University,0,0,exact name
+240374,Great Lakes Intercollegiate Athletic Conference,D2,University of Wisconsin-Parkside,University of Wisconsin-Parkside,0,0,exact name
+172644,Great Lakes Intercollegiate Athletic Conference,D2,Wayne State University,Wayne State University,0,0,exact name
+177214,Great Lakes Valley Conference,D2,Drury University,Drury University,0,0,exact name
+146612,Great Lakes Valley Conference,D2,Lewis University,Lewis University,0,0,exact name
+177940,Great Lakes Valley Conference,D2,Lincoln University (MO),Lincoln University,0,0,name and city
+178059,Great Lakes Valley Conference,D2,Maryville University,Maryville University of Saint Louis,0,0,override: EADA name is Maryville University of Saint Louis
+147013,Great Lakes Valley Conference,D2,McKendree University,McKendree University,0,0,exact name
+178411,Great Lakes Valley Conference,D2,Missouri University of Science and Technology,Missouri University of Science and Technology,0,0,exact name
+148131,Great Lakes Valley Conference,D2,Quincy University,Quincy University,0,0,exact name
+179043,Great Lakes Valley Conference,D2,Rockhurst University,Rockhurst University,0,0,exact name
+179326,Great Lakes Valley Conference,D2,Southwest Baptist University,Southwest Baptist University,0,0,exact name
+178615,Great Lakes Valley Conference,D2,Truman State University,Truman State University,0,0,exact name
+148654,Great Lakes Valley Conference,D2,University of Illinois at Springfield,University of Illinois Springfield,0,0,exact name
+151263,Great Lakes Valley Conference,D2,University of Indianapolis,University of Indianapolis,0,0,exact name
+178420,Great Lakes Valley Conference,D2,University of Missouri-St. Louis,University of Missouri-St Louis,0,0,exact name
+154493,Great Lakes Valley Conference,D2,Upper Iowa University,Upper Iowa University,0,0,exact name
+179955,Great Lakes Valley Conference,D2,William Jewell College,William Jewell College,0,0,exact name
+201104,Great Midwest Athletic Conference,D2,Ashland University,Ashland University,0,0,exact name
+201654,Great Midwest Athletic Conference,D2,Cedarville University,Cedarville University,0,0,exact name
+157076,Great Midwest Athletic Conference,D2,Kentucky Wesleyan College,Kentucky Wesleyan College,0,0,exact name
+203580,Great Midwest Athletic Conference,D2,Lake Erie College,Lake Erie College,0,0,exact name
+203775,Great Midwest Athletic Conference,D2,Malone University,Malone University,0,0,exact name
+171492,Great Midwest Athletic Conference,D2,Northwood University,Northwood University,0,0,exact name
+204617,Great Midwest Athletic Conference,D2,Ohio Dominican University,Ohio Dominican University,0,0,exact name
+202763,Great Midwest Athletic Conference,D2,University of Findlay,The University of Findlay,0,0,exact name
+157809,Great Midwest Athletic Conference,D2,Thomas More University,Thomas More University,0,1,exact name
+206048,Great Midwest Athletic Conference,D2,Tiffin University,Tiffin University,0,0,exact name
+206349,Great Midwest Athletic Conference,D2,Ursuline College,Ursuline College,0,0,exact name
+206437,Great Midwest Athletic Conference,D2,Walsh University,Walsh University,0,0,exact name
+234827,Great Northwest Athletic Conference,D2,Central Washington University,Central Washington University,0,0,exact name
+180179,Great Northwest Athletic Conference,D2,Montana State University Billings,Montana State University Billings,0,0,exact name
+142461,Great Northwest Athletic Conference,D2,Northwest Nazarene University,Northwest Nazarene University,0,0,exact name
+236452,Great Northwest Athletic Conference,D2,Saint Martin's University,Saint Martin's University,0,0,exact name
+236577,Great Northwest Athletic Conference,D2,Seattle Pacific University,Seattle Pacific University,0,0,exact name
+102553,Great Northwest Athletic Conference,D2,University of Alaska Anchorage,University of Alaska Anchorage,0,0,exact name
+102614,Great Northwest Athletic Conference,D2,University of Alaska Fairbanks,University of Alaska Fairbanks,0,0,exact name
+210429,Great Northwest Athletic Conference,D2,Western Oregon University,Western Oregon University,0,0,exact name
+237011,Great Northwest Athletic Conference,D2,Western Washington University,Western Washington University,0,0,exact name
+100830,Gulf South Conference,D2,Auburn University at Montgomery,Auburn University at Montgomery,0,0,exact name
+219833,Gulf South Conference,D2,Christian Brothers University,Christian Brothers University,0,0,exact name
+175616,Gulf South Conference,D2,Delta State University,Delta State University,0,0,exact name
+220613,Gulf South Conference,D2,Lee University,Lee University,0,0,exact name
+176053,Gulf South Conference,D2,Mississippi College,Mississippi College,0,0,exact name
+221892,Gulf South Conference,D2,Trevecca Nazarene University,Trevecca Nazarene University,0,0,exact name
+221971,Gulf South Conference,D2,Union University,Union University,0,0,exact name
+100706,Gulf South Conference,D2,University of Alabama in Huntsville,University of Alabama in Huntsville,0,0,exact name
+101709,Gulf South Conference,D2,University of Montevallo,University of Montevallo,0,0,exact name
+101587,Gulf South Conference,D2,University of West Alabama,University of West Alabama,0,0,exact name
+138354,Gulf South Conference,D2,University of West Florida,University of West Florida,0,0,exact name
+141264,Gulf South Conference,D2,Valdosta State University,Valdosta State University,0,0,exact name
+237783,Independent,D2,Salem University,Salem University,0,0,exact name
+243133,Independent,D2,University of Puerto Rico at Bayamón,University of Puerto Rico-Bayamon,0,0,exact name
+243197,Independent,D2,University of Puerto Rico at Mayagüez,University of Puerto Rico-Mayaguez,0,0,exact name
+243221,Independent,D2,University of Puerto Rico at Río Piedras,University of Puerto Rico-Rio Piedras,0,0,exact name
+222831,Lone Star Conference,D2,Angelo State University,Angelo State University,0,0,exact name
+206914,Lone Star Conference,D2,Cameron University,Cameron University,0,0,exact name
+224226,Lone Star Conference,D2,Dallas Baptist University,Dallas Baptist University,0,0,exact name
+187648,Lone Star Conference,D2,Eastern New Mexico University,Eastern New Mexico University-Main Campus,0,0,exact name
+226383,Lone Star Conference,D2,Lubbock Christian University,Lubbock Christian University,0,0,exact name
+226833,Lone Star Conference,D2,Midwestern State University,Midwestern State University,0,0,exact name
+207324,Lone Star Conference,D2,Oklahoma Christian University,Oklahoma Christian University,0,0,exact name
+227845,Lone Star Conference,D2,St. Edward's University,Saint Edward's University,0,0,exact name
+228149,Lone Star Conference,D2,St. Mary's University,St. Mary's University,0,0,exact name
+228501,Lone Star Conference,D2,Sul Ross State University,Sul Ross State University,0,1,exact name
+226152,Lone Star Conference,D2,Texas A&M International University,Texas A & M International University,0,0,name and city
+228705,Lone Star Conference,D2,Texas A&M University-Kingsville,Texas A&M University-Kingsville,0,0,exact name
+229179,Lone Star Conference,D2,Texas Woman's University,Texas Woman's University,0,0,exact name
+229018,Lone Star Conference,D2,University of Texas Permian Basin,The University of Texas Permian Basin,0,0,exact name
+228802,Lone Star Conference,D2,University of Texas at Tyler,The University of Texas at Tyler,0,0,exact name
+229814,Lone Star Conference,D2,West Texas A&M University,West Texas A & M University,0,0,name and city
+188304,Lone Star Conference,D2,Western New Mexico University,Western New Mexico University,0,0,exact name
+155025,Mid-America Intercollegiate Athletics Association,D2,Emporia State University,Emporia State University,0,0,exact name
+155061,Mid-America Intercollegiate Athletics Association,D2,Fort Hays State University,Fort Hays State University,0,0,exact name
+178341,Mid-America Intercollegiate Athletics Association,D2,Missouri Southern State University,Missouri Southern State University,0,0,exact name
+178387,Mid-America Intercollegiate Athletics Association,D2,Missouri Western State University,Missouri Western State University,0,0,exact name
+155335,Mid-America Intercollegiate Athletics Association,D2,Newman University,Newman University,0,0,exact name
+207263,Mid-America Intercollegiate Athletics Association,D2,Northeastern State University,Northeastern State University,0,0,exact name
+178624,Mid-America Intercollegiate Athletics Association,D2,Northwest Missouri State University,Northwest Missouri State University,0,0,exact name
+155681,Mid-America Intercollegiate Athletics Association,D2,Pittsburg State University,Pittsburg State University,0,0,exact name
+207661,Mid-America Intercollegiate Athletics Association,D2,Rogers State University,Rogers State University,0,0,exact name
+108092,Mid-America Intercollegiate Athletics Association,D2,University of Arkansas-Fort Smith,University of Arkansas-Fort Smith,0,0,exact name
+176965,Mid-America Intercollegiate Athletics Association,D2,University of Central Missouri,University of Central Missouri,0,0,exact name
+206941,Mid-America Intercollegiate Athletics Association,D2,University of Central Oklahoma,University of Central Oklahoma,0,0,exact name
+181215,Mid-America Intercollegiate Athletics Association,D2,University of Nebraska at Kearney,University of Nebraska at Kearney,0,0,exact name
+156082,Mid-America Intercollegiate Athletics Association,D2,Washburn University,Washburn University,0,0,exact name
+237330,Mountain East Conference,D2,Concord University,Concord University,0,0,exact name
+237358,Mountain East Conference,D2,Davis & Elkins College,Davis & Elkins College,0,0,exact name
+237367,Mountain East Conference,D2,Fairmont State University,Fairmont State University,0,0,exact name
+162584,Mountain East Conference,D2,Frostburg State University,Frostburg State University,0,0,exact name
+237385,Mountain East Conference,D2,Glenville State University,Glenville State University,0,0,exact name
+215442,Mountain East Conference,D2,Point Park University,Point Park University,0,1,exact name
+237312,Mountain East Conference,D2,University of Charleston,University of Charleston,0,0,exact name
+237932,Mountain East Conference,D2,West Liberty University,West Liberty University,0,0,exact name
+237899,Mountain East Conference,D2,West Virginia State University,West Virginia State University,0,0,exact name
+237969,Mountain East Conference,D2,West Virginia Wesleyan College,West Virginia Wesleyan College,0,0,exact name
+238078,Mountain East Conference,D2,Wheeling University,Wheeling University,0,0,exact name
+188429,Northeast-10 Conference,D2,Adelphi University,Adelphi University,0,0,exact name
+164447,Northeast-10 Conference,D2,American International College,American International College,0,0,exact name
+164562,Northeast-10 Conference,D2,Assumption University,Assumption University,0,0,exact name
+164739,Northeast-10 Conference,D2,Bentley University,Bentley University,0,0,exact name
+182795,Northeast-10 Conference,D2,Franklin Pierce University,Franklin Pierce University,0,0,exact name
+194310,Northeast-10 Conference,D2,Pace University,Pace University,0,0,exact name
+183239,Northeast-10 Conference,D2,Saint Anselm College,Saint Anselm College,0,0,exact name
+231059,Northeast-10 Conference,D2,Saint Michael's College,Saint Michael's College,0,0,exact name
+130493,Northeast-10 Conference,D2,Southern Connecticut State University,Southern Connecticut State University,0,0,exact name
+183026,Northeast-10 Conference,D2,Southern New Hampshire University,Southern New Hampshire University,0,0,exact name
+129941,Northeast-10 Conference,D2,University of New Haven,University of New Haven,0,0,exact name
+219000,Northern Sun Intercollegiate Conference,D2,Augustana University,Augustana University,0,0,exact name
+173124,Northern Sun Intercollegiate Conference,D2,Bemidji State University,Bemidji State University,0,0,exact name
+173328,Northern Sun Intercollegiate Conference,D2,Concordia University-St. Paul,Concordia University-Saint Paul,0,0,exact name
+174358,Northern Sun Intercollegiate Conference,D2,Minnesota State University Moorhead,Minnesota State University Moorhead,0,0,exact name
+173920,Northern Sun Intercollegiate Conference,D2,"Minnesota State University, Mankato",Minnesota State University-Mankato,0,0,exact name
+200253,Northern Sun Intercollegiate Conference,D2,Minot State University,Minot State University,0,0,exact name
+219259,Northern Sun Intercollegiate Conference,D2,Northern State University,Northern State University,0,0,exact name
+174783,Northern Sun Intercollegiate Conference,D2,St. Cloud State University,Saint Cloud State University,0,0,exact name
+175078,Northern Sun Intercollegiate Conference,D2,Southwest Minnesota State University,Southwest Minnesota State University,0,0,exact name
+200217,Northern Sun Intercollegiate Conference,D2,University of Mary,University of Mary,0,0,exact name
+174075,Northern Sun Intercollegiate Conference,D2,University of Minnesota Crookston,University of Minnesota-Crookston,0,0,exact name
+174233,Northern Sun Intercollegiate Conference,D2,University of Minnesota Duluth,University of Minnesota-Duluth,0,0,exact name
+219383,Northern Sun Intercollegiate Conference,D2,University of Sioux Falls,University of Sioux Falls,0,0,exact name
+181783,Northern Sun Intercollegiate Conference,D2,Wayne State College,Wayne State College,0,0,exact name
+175272,Northern Sun Intercollegiate Conference,D2,Winona State University,Winona State University,0,0,exact name
+109785,Pacific West Conference,D2,Azusa Pacific University,Azusa Pacific University,0,0,exact name
+110097,Pacific West Conference,D2,Biola University,Biola University,0,0,exact name
+141486,Pacific West Conference,D2,Chaminade University of Honolulu,Chaminade University of Honolulu,0,0,exact name
+112075,Pacific West Conference,D2,Concordia University-Irvine,Concordia University-Irvine,0,0,exact name
+113698,Pacific West Conference,D2,Dominican University of California,Dominican University of California,0,0,exact name
+114813,Pacific West Conference,D2,Fresno Pacific University,Fresno Pacific University,0,0,exact name
+141644,Pacific West Conference,D2,Hawai'i Pacific University,Hawaii Pacific University,0,0,exact name
+118693,Pacific West Conference,D2,Menlo College,Menlo College,0,1,exact name
+121309,Pacific West Conference,D2,Point Loma Nazarene University,Point Loma Nazarene University,0,0,exact name
+141565,Pacific West Conference,D2,University of Hawai'i at Hilo,University of Hawaii at Hilo,0,0,exact name
+123651,Pacific West Conference,D2,Vanguard University,Vanguard University of Southern California,0,1,city and partial name
+125727,Pacific West Conference,D2,Westmont College,Westmont College,0,0,exact name
+122728,Pacific West Conference,D2,Jessup University,William Jessup University,0,1,name and city
+482149,Peach Belt Conference,D2,Augusta University,Augusta University,0,0,exact name
+139311,Peach Belt Conference,D2,Clayton State University,Clayton  State University,0,0,exact name
+139366,Peach Belt Conference,D2,Columbus State University,Columbus State University,0,0,exact name
+133711,Peach Belt Conference,D2,Flagler College,Flagler College,0,0,exact name
+139861,Peach Belt Conference,D2,Georgia College & State University,Georgia College & State University,0,0,exact name
+139764,Peach Belt Conference,D2,Georgia Southwestern State University,Georgia Southwestern State University,0,0,exact name
+218229,Peach Belt Conference,D2,Lander University,Lander University,0,0,exact name
+482680,Peach Belt Conference,D2,University of North Georgia,University of North Georgia,0,0,exact name
+218645,Peach Belt Conference,D2,University of South Carolina Aiken,University of South Carolina Aiken,0,0,exact name
+218654,Peach Belt Conference,D2,University of South Carolina Beaufort,University of South Carolina Beaufort,0,1,exact name
+212115,Pennsylvania State Athletic Conference,D2,East Stroudsburg University of Pennsylvania,East Stroudsburg University of Pennsylvania,0,0,exact name
+212601,Pennsylvania State Athletic Conference,D2,Gannon University,Gannon University,0,0,exact name
+213020,Pennsylvania State Athletic Conference,D2,Indiana University of Pennsylvania,Indiana University of Pennsylvania-Main Campus,0,0,exact name
+213349,Pennsylvania State Athletic Conference,D2,Kutztown University of Pennsylvania,Kutztown University of Pennsylvania,0,0,exact name
+214041,Pennsylvania State Athletic Conference,D2,Millersville University of Pennsylvania,Millersville University of Pennsylvania,0,0,exact name
+215947,Pennsylvania State Athletic Conference,D2,Seton Hill University,Seton Hill University,0,0,exact name
+237792,Pennsylvania State Athletic Conference,D2,Shepherd University,Shepherd University,0,0,exact name
+216010,Pennsylvania State Athletic Conference,D2,Shippensburg University of Pennsylvania,Shippensburg University of Pennsylvania,0,0,exact name
+216038,Pennsylvania State Athletic Conference,D2,Slippery Rock University of Pennsylvania,Slippery Rock University of Pennsylvania,0,0,exact name
+215284,Pennsylvania State Athletic Conference,D2,University of Pittsburgh at Johnstown,University of Pittsburgh-Johnstown,0,0,exact name
+216764,Pennsylvania State Athletic Conference,D2,West Chester University of Pennsylvania,West Chester University of Pennsylvania,0,0,exact name
+126182,Rocky Mountain Athletic Conference,D2,Adams State University,Adams State University,0,0,exact name
+219046,Rocky Mountain Athletic Conference,D2,Black Hills State University,Black Hills State University,0,0,exact name
+180948,Rocky Mountain Athletic Conference,D2,Chadron State College,Chadron State College,0,0,exact name
+126669,Rocky Mountain Athletic Conference,D2,Colorado Christian University,Colorado Christian University,0,0,exact name
+127556,Rocky Mountain Athletic Conference,D2,Colorado Mesa University,Colorado Mesa University,0,0,exact name
+126775,Rocky Mountain Athletic Conference,D2,Colorado School of Mines,Colorado School of Mines,0,0,exact name
+128106,Rocky Mountain Athletic Conference,D2,Colorado State University-Pueblo,Colorado State University Pueblo,0,0,exact name
+127185,Rocky Mountain Athletic Conference,D2,Fort Lewis College,Fort Lewis College,0,0,exact name
+127565,Rocky Mountain Athletic Conference,D2,Metropolitan State University of Denver,Metropolitan State University of Denver,0,0,exact name
+187897,Rocky Mountain Athletic Conference,D2,New Mexico Highlands University,New Mexico Highlands University,0,0,exact name
+127918,Rocky Mountain Athletic Conference,D2,Regis University,Regis University,0,0,exact name
+219347,Rocky Mountain Athletic Conference,D2,South Dakota School of Mines and Technology,South Dakota School of Mines and Technology,0,0,exact name
+126580,Rocky Mountain Athletic Conference,D2,University of Colorado Colorado Springs,University of Colorado Colorado Springs,0,0,exact name
+128391,Rocky Mountain Athletic Conference,D2,Western Colorado University,Western Colorado University,0,0,exact name
+230807,Rocky Mountain Athletic Conference,D2,Westminster University,Westminster University,0,0,exact name
+217633,South Atlantic Conference,D2,Anderson University,Anderson University,1,0,exact name
+219806,South Atlantic Conference,D2,Carson-Newman University,Carson-Newman University,0,0,exact name
+198215,South Atlantic Conference,D2,Catawba College,Catawba College,0,0,exact name
+217907,South Atlantic Conference,D2,Coker University,Coker University,0,0,exact name
+232025,South Atlantic Conference,D2,Emory & Henry University,Emory & Henry University,0,0,exact name
+198835,South Atlantic Conference,D2,Lenoir-Rhyne University,Lenoir-Rhyne University,0,0,exact name
+220631,South Atlantic Conference,D2,Lincoln Memorial University,Lincoln Memorial University,0,0,exact name
+198899,South Atlantic Conference,D2,Mars Hill University,Mars Hill University,0,0,exact name
+218414,South Atlantic Conference,D2,Newberry College,Newberry College,0,0,exact name
+221953,South Atlantic Conference,D2,Tusculum University,Tusculum University,0,0,exact name
+233897,South Atlantic Conference,D2,University of Virginia's College at Wise,University of Virginia's College at Wise,0,0,exact name
+199962,South Atlantic Conference,D2,Wingate University,Wingate University,0,0,exact name
+138716,Southern Intercollegiate Athletic Conference,D2,Albany State University,Albany State University,0,0,exact name
+217624,Southern Intercollegiate Athletic Conference,D2,Allen University,Allen University,0,0,exact name
+217721,Southern Intercollegiate Athletic Conference,D2,Benedict College,Benedict College,0,0,exact name
+201690,Southern Intercollegiate Athletic Conference,D2,Central State University,Central State University,0,0,exact name
+138947,Southern Intercollegiate Athletic Conference,D2,Clark Atlanta University,Clark Atlanta University,0,0,exact name
+133526,Southern Intercollegiate Athletic Conference,D2,Edward Waters University,Edward Waters University,0,0,exact name
+139719,Southern Intercollegiate Athletic Conference,D2,Fort Valley State University,Fort Valley State University,0,0,exact name
+157058,Southern Intercollegiate Athletic Conference,D2,Kentucky State University,Kentucky State University,0,0,exact name
+220598,Southern Intercollegiate Athletic Conference,D2,Lane College,Lane College,0,0,exact name
+220604,Southern Intercollegiate Athletic Conference,D2,LeMoyne-Owen College,Le Moyne-Owen College,0,0,override: EADA name is Le Moyne-Owen College
+101675,Southern Intercollegiate Athletic Conference,D2,Miles College,Miles College,0,0,exact name
+140960,Southern Intercollegiate Athletic Conference,D2,Savannah State University,Savannah State University,0,0,exact name
+102234,Southern Intercollegiate Athletic Conference,D2,Spring Hill College,Spring Hill College,0,0,exact name
+102377,Southern Intercollegiate Athletic Conference,D2,Tuskegee University,Tuskegee University,0,0,exact name
+132471,Sunshine State Conference,D2,Barry University,Barry University,0,0,exact name
+133492,Sunshine State Conference,D2,Eckerd College,Eckerd College,0,0,exact name
+133553,Sunshine State Conference,D2,Embry-Riddle Aeronautical University,Embry-Riddle Aeronautical University-Daytona Beach,0,0,name and city
+133881,Sunshine State Conference,D2,Florida Institute of Technology,Florida Institute of Technology,0,0,exact name
+134079,Sunshine State Conference,D2,Florida Southern College,Florida Southern College,0,0,exact name
+132657,Sunshine State Conference,D2,Lynn University,Lynn University,0,0,exact name
+136215,Sunshine State Conference,D2,Nova Southeastern University,Nova Southeastern University,0,0,exact name
+136330,Sunshine State Conference,D2,Palm Beach Atlantic University,Palm Beach Atlantic University,0,0,exact name
+136950,Sunshine State Conference,D2,Rollins College,Rollins College,0,0,exact name
+137032,Sunshine State Conference,D2,Saint Leo University,Saint Leo University,0,0,exact name
+137847,Sunshine State Conference,D2,University of Tampa,The University of Tampa,0,0,exact name
+211431,Allegheny Mountain Collegiate Conference,D3,Carlow University,Carlow University,0,0,exact name
+191621,Allegheny Mountain Collegiate Conference,D3,Hilbert College,Hilbert College,0,0,exact name
+213358,Allegheny Mountain Collegiate Conference,D3,La Roche University,La Roche University,0,0,exact name
+214166,Allegheny Mountain Collegiate Conference,D3,Mount Aloysius College,Mount Aloysius College,0,0,exact name
+214689,Allegheny Mountain Collegiate Conference,D3,"Pennsylvania State University, Altoona",Pennsylvania State University-Penn State Altoona,0,0,name and city
+214591,Allegheny Mountain Collegiate Conference,D3,"Pennsylvania State University, Behrend",Pennsylvania State University-Penn State Erie-Behrend College,0,0,name and city
+196006,Allegheny Mountain Collegiate Conference,D3,Alfred State College,SUNY College of Technology at Alfred,0,0,override: EADA name is SUNY College of Technology at Alfred; not Alfred University
+215266,Allegheny Mountain Collegiate Conference,D3,University of Pittsburgh at Bradford,University of Pittsburgh-Bradford,0,0,exact name
+215275,Allegheny Mountain Collegiate Conference,D3,University of Pittsburgh at Greensburg,University of Pittsburgh-Greensburg,0,0,exact name
+153001,American Rivers Conference,D3,Buena Vista University,Buena Vista University,0,0,exact name
+153108,American Rivers Conference,D3,Central College,Central College,0,0,exact name
+153144,American Rivers Conference,D3,Coe College,Coe College,0,0,exact name
+153825,American Rivers Conference,D3,Loras College,Loras College,0,0,exact name
+153834,American Rivers Conference,D3,Luther College,Luther College,0,0,exact name
+181446,American Rivers Conference,D3,Nebraska Wesleyan University,Nebraska Wesleyan University,0,0,exact name
+154350,American Rivers Conference,D3,Simpson College,Simpson College,0,0,exact name
+153278,American Rivers Conference,D3,University of Dubuque,University of Dubuque,0,0,exact name
+154527,American Rivers Conference,D3,Wartburg College,Wartburg College,0,0,exact name
+224527,American Southwest Conference,D3,East Texas Baptist University,East Texas Baptist University,0,0,exact name
+225247,American Southwest Conference,D3,Hardin–Simmons University,Hardin-Simmons University,0,0,exact name
+225548,American Southwest Conference,D3,Howard Payne University,Howard Payne University,0,0,exact name
+226231,American Southwest Conference,D3,LeTourneau University,LeTourneau University,0,0,exact name
+228787,American Southwest Conference,D3,University of Texas at Dallas,The University of Texas at Dallas,1,0,exact name
+226471,American Southwest Conference,D3,University of Mary Hardin–Baylor,University of Mary Hardin-Baylor,0,0,exact name
+183974,Atlantic East Conference,D3,Centenary University,Centenary University,0,0,exact name
+212832,Atlantic East Conference,D3,Gwynedd Mercy University,Gwynedd Mercy University,0,0,exact name
+213011,Atlantic East Conference,D3,Immaculata University,Immaculata University,0,0,exact name
+232706,Atlantic East Conference,D3,Marymount University,Marymount University,0,0,exact name
+213826,Atlantic East Conference,D3,Marywood University,Marywood University,0,0,exact name
+214272,Atlantic East Conference,D3,Neumann University,Neumann University,0,0,exact name
+194578,Atlantic East Conference,D3,Pratt Institute,Pratt Institute-Main,0,0,exact name
+212009,Centennial Conference,D3,Dickinson College,Dickinson College,0,0,exact name
+212577,Centennial Conference,D3,Franklin & Marshall College,Franklin and Marshall College,0,0,exact name
+212674,Centennial Conference,D3,Gettysburg College,Gettysburg College,0,0,exact name
+212911,Centennial Conference,D3,Haverford College,Haverford College,0,0,exact name
+162928,Centennial Conference,D3,Johns Hopkins University,Johns Hopkins University,1,0,exact name
+164270,Centennial Conference,D3,McDaniel College,McDaniel College,0,0,exact name
+214175,Centennial Conference,D3,Muhlenberg College,Muhlenberg College,0,0,exact name
+216287,Centennial Conference,D3,Swarthmore College,Swarthmore College,0,0,exact name
+216524,Centennial Conference,D3,Ursinus College,Ursinus College,0,0,exact name
+164216,Centennial Conference,D3,Washington College,Washington College,0,0,exact name
+190512,City University of New York Athletic Conference,D3,Baruch College,CUNY Bernard M Baruch College,0,0,override: EADA name is CUNY Bernard M Baruch College
+190549,City University of New York Athletic Conference,D3,Brooklyn College,CUNY Brooklyn College,0,0,name and city
+190567,City University of New York Athletic Conference,D3,City College of New York,CUNY City College,0,0,override: EADA name is CUNY City College
+190594,City University of New York Athletic Conference,D3,Hunter College,CUNY Hunter College,0,0,name and city
+190600,City University of New York Athletic Conference,D3,John Jay College of Criminal Justice,CUNY John Jay College of Criminal Justice,0,0,name and city
+190637,City University of New York Athletic Conference,D3,Lehman College,CUNY Lehman College,0,0,name and state
+190646,City University of New York Athletic Conference,D3,Medgar Evers College,CUNY Medgar Evers College,0,0,name and city
+190691,City University of New York Athletic Conference,D3,"York College, City University of New York",CUNY York College,0,0,override: EADA name is CUNY York College
+231712,Coast to Coast Athletic Conference,D3,Christopher Newport University,Christopher Newport University,0,0,exact name
+163851,Coast to Coast Athletic Conference,D3,Salisbury University,Salisbury University,0,0,exact name
+110714,Coast to Coast Athletic Conference,D3,"University of California, Santa Cruz",University of California-Santa Cruz,0,0,exact name
+232681,Coast to Coast Athletic Conference,D3,University of Mary Washington,University of Mary Washington,0,0,exact name
+199865,Coast to Coast Athletic Conference,D3,Warren Wilson College,Warren Wilson College,0,0,exact name
+143084,College Conference of Illinois and Wisconsin,D3,Augustana College,Augustana College,0,0,exact name
+238458,College Conference of Illinois and Wisconsin,D3,Carroll University,Carroll University,0,0,exact name
+238476,College Conference of Illinois and Wisconsin,D3,Carthage College,Carthage College,0,0,exact name
+144962,College Conference of Illinois and Wisconsin,D3,Elmhurst University,Elmhurst University,0,0,exact name
+145646,College Conference of Illinois and Wisconsin,D3,Illinois Wesleyan University,Illinois Wesleyan University,0,0,exact name
+147244,College Conference of Illinois and Wisconsin,D3,Millikin University,Millikin University,0,0,exact name
+147660,College Conference of Illinois and Wisconsin,D3,North Central College,North Central College,0,0,exact name
+147679,College Conference of Illinois and Wisconsin,D3,North Park University,North Park University,0,0,exact name
+149781,College Conference of Illinois and Wisconsin,D3,Wheaton College,Wheaton College,0,0,exact name
+156213,Collegiate Conference of the South,D3,Asbury University,Asbury University,0,0,exact name
+175421,Collegiate Conference of the South,D3,Belhaven University,Belhaven University,0,0,exact name
+139393,Collegiate Conference of the South,D3,Covenant College,Covenant College,0,0,exact name
+101435,Collegiate Conference of the South,D3,Huntingdon College,Huntingdon College,0,0,exact name
+140234,Collegiate Conference of the South,D3,LaGrange College,LaGrange College,0,0,exact name
+220710,Collegiate Conference of the South,D3,Maryville College,Maryville College,0,0,exact name
+140818,Collegiate Conference of the South,D3,Piedmont University,Piedmont University,0,0,exact name
+165529,Conference of New England,D3,Curry College,Curry College,0,0,exact name
+165699,Conference of New England,D3,Endicott College,Endicott College,0,0,exact name
+165936,Conference of New England,D3,Gordon College,Gordon College,0,0,exact name
+217235,Conference of New England,D3,Johnson & Wales University,Johnson & Wales University-Providence,0,0,name and city
+167260,Conference of New England,D3,Nichols College,Nichols College,0,0,exact name
+217518,Conference of New England,D3,Roger Williams University,Roger Williams University,0,0,exact name
+168005,Conference of New England,D3,Suffolk University,Suffolk University,0,0,exact name
+129525,Conference of New England,D3,University of Hartford,University of Hartford,0,0,exact name
+161457,Conference of New England,D3,University of New England,University of New England,0,0,exact name
+168227,Conference of New England,D3,Wentworth Institute of Technology,Wentworth Institute of Technology,0,0,exact name
+168254,Conference of New England,D3,Western New England University,Western New England University,0,0,exact name
+188641,Empire 8,D3,Alfred University,Alfred University,0,0,exact name
+190983,Empire 8,D3,Elmira College,Elmira College,0,0,exact name
+191533,Empire 8,D3,Hartwick College,Hartwick College,0,0,exact name
+191676,Empire 8,D3,Houghton University,Houghton University,0,0,exact name
+192192,Empire 8,D3,Keuka College,Keuka College,0,0,exact name
+193584,Empire 8,D3,Nazareth University,Nazareth University,0,0,exact name
+195128,Empire 8,D3,Russell Sage College,Russell Sage College,0,0,exact name
+196121,Empire 8,D3,State University of New York at Brockport,SUNY Brockport,0,0,only school of this division in the city
+196167,Empire 8,D3,State University of New York at Geneseo,SUNY College at Geneseo,0,0,only school of this division in the city
+196112,Empire 8,D3,State University of New York Polytechnic Institute,SUNY Polytechnic Institute,0,0,override: EADA name is SUNY Polytechnic Institute
+195720,Empire 8,D3,St. John Fisher University,St. John Fisher University,0,0,exact name
+197045,Empire 8,D3,Utica University,Utica University,0,0,exact name
+128498,Great Northeast Athletic Conference,D3,Albertus Magnus College,Albertus Magnus College,0,0,exact name
+164492,Great Northeast Athletic Conference,D3,Anna Maria College,Anna Maria College,0,0,exact name
+182634,Great Northeast Athletic Conference,D3,Colby–Sawyer College,Colby-Sawyer College,0,0,exact name
+167394,Great Northeast Athletic Conference,D3,Elms College,College of Our Lady of the Elms,0,0,city and partial name
+165574,Great Northeast Athletic Conference,D3,Dean College,Dean College,0,0,exact name
+165671,Great Northeast Athletic Conference,D3,Emmanuel College,Emmanuel College,0,0,exact name
+166391,Great Northeast Athletic Conference,D3,Lasell University,Lasell University,0,0,exact name
+129774,Great Northeast Athletic Conference,D3,Mitchell College,Mitchell College,0,0,exact name
+182980,Great Northeast Athletic Conference,D3,New England College,New England College,0,0,exact name
+230995,Great Northeast Athletic Conference,D3,Norwich University,Norwich University,0,0,exact name
+167598,Great Northeast Athletic Conference,D3,Regis College,Regis College,0,0,exact name
+183211,Great Northeast Athletic Conference,D3,Rivier University,Rivier University,0,0,exact name
+161518,Great Northeast Athletic Conference,D3,Saint Joseph's College of Maine,Saint Joseph's College of Maine,0,0,exact name
+130314,Great Northeast Athletic Conference,D3,University of Saint Joseph,University of Saint Joseph,0,0,exact name
+150066,Heartland Collegiate Athletic Conference,D3,Anderson University,Anderson University,0,0,exact name
+156295,Heartland Collegiate Athletic Conference,D3,Berea College,Berea College,0,0,exact name
+201371,Heartland Collegiate Athletic Conference,D3,Bluffton University,Bluffton University,0,0,exact name
+150455,Heartland Collegiate Athletic Conference,D3,Earlham College,Earlham College,0,0,exact name
+150604,Heartland Collegiate Athletic Conference,D3,Franklin College,Franklin College,0,0,exact name
+150756,Heartland Collegiate Athletic Conference,D3,Hanover College,Hanover College,0,0,exact name
+151777,Heartland Collegiate Athletic Conference,D3,Manchester University,Manchester University,0,0,exact name
+204200,Heartland Collegiate Athletic Conference,D3,Mount St. Joseph University,Mount St. Joseph University,0,0,exact name
+152318,Heartland Collegiate Athletic Conference,D3,Rose-Hulman Institute of Technology,Rose-Hulman Institute of Technology,0,0,exact name
+157818,Heartland Collegiate Athletic Conference,D3,Transylvania University,Transylvania University,0,0,exact name
+239071,Independent,D3,Maranatha Baptist University,Maranatha Baptist University,0,0,exact name
+131876,Independent,D3,Trinity Washington University,Trinity Washington University,0,0,exact name
+184348,Landmark Conference,D3,Drew University,Drew University,0,0,exact name
+212197,Landmark Conference,D3,Elizabethtown College,Elizabethtown College,0,0,exact name
+162654,Landmark Conference,D3,Goucher College,Goucher College,0,0,exact name
+213251,Landmark Conference,D3,Juniata College,Juniata College,0,0,exact name
+213668,Landmark Conference,D3,Lycoming College,Lycoming College,0,0,exact name
+214157,Landmark Conference,D3,Moravian University,Moravian University,0,0,exact name
+216278,Landmark Conference,D3,Susquehanna University,Susquehanna University,0,0,exact name
+131283,Landmark Conference,D3,Catholic University of America,The Catholic University of America,0,0,exact name
+215929,Landmark Conference,D3,University of Scranton,University of Scranton,0,0,exact name
+216931,Landmark Conference,D3,Wilkes University,Wilkes University,0,0,exact name
+189088,Liberty League,D3,Bard College,Bard College,0,0,exact name
+190044,Liberty League,D3,Clarkson University,Clarkson University,0,0,exact name
+191630,Liberty League,D3,Hobart College / William Smith College,Hobart William Smith Colleges,0,0,only school of this division in the city
+191968,Liberty League,D3,Ithaca College,Ithaca College,0,0,exact name
+194824,Liberty League,D3,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,0,0,exact name
+195003,Liberty League,D3,Rochester Institute of Technology,Rochester Institute of Technology,1,0,exact name
+195526,Liberty League,D3,Skidmore College,Skidmore College,0,0,exact name
+195216,Liberty League,D3,St. Lawrence University,St Lawrence University,0,0,exact name
+196866,Liberty League,D3,Union College,Union College,0,0,exact name
+197133,Liberty League,D3,Vassar College,Vassar College,0,0,exact name
+129215,Little East Conference,D3,Eastern Connecticut State University,Eastern Connecticut State University,0,0,exact name
+183062,Little East Conference,D3,Keene State College,Keene State College,0,0,exact name
+183080,Little East Conference,D3,Plymouth State University,Plymouth State University,0,0,exact name
+217420,Little East Conference,D3,Rhode Island College,Rhode Island College,0,0,exact name
+166638,Little East Conference,D3,University of Massachusetts Boston,University of Massachusetts-Boston,0,0,exact name
+167987,Little East Conference,D3,University of Massachusetts Dartmouth,University of Massachusetts-Dartmouth,0,0,exact name
+161554,Little East Conference,D3,University of Southern Maine,University of Southern Maine,0,0,exact name
+130776,Little East Conference,D3,Western Connecticut State University,Western Connecticut State University,0,0,exact name
+210571,MAC Commonwealth,D3,Albright College,Albright College,0,0,exact name
+210775,MAC Commonwealth,D3,Alvernia University,Alvernia University,0,0,exact name
+212133,MAC Commonwealth,D3,Eastern University,Eastern University,0,0,exact name
+162760,MAC Commonwealth,D3,Hood College,Hood College,0,0,exact name
+213996,MAC Commonwealth,D3,Messiah University,Messiah University,0,0,exact name
+164173,MAC Commonwealth,D3,Stevenson University,Stevenson University,0,0,exact name
+216852,MAC Commonwealth,D3,Widener University,Widener University,0,0,exact name
+217059,MAC Commonwealth,D3,York College of Pennsylvania,York College of Pennsylvania,0,0,exact name
+211088,MAC Freedom,D3,Arcadia University,Arcadia University,0,0,exact name
+210739,MAC Freedom,D3,DeSales University,DeSales University,0,0,exact name
+211981,MAC Freedom,D3,Delaware Valley University,Delaware Valley University,0,0,exact name
+184694,MAC Freedom,D3,"Fairleigh Dickinson University, Florham",Fairleigh Dickinson University-Florham Campus,0,0,exact name
+213321,MAC Freedom,D3,King's College,King's College,0,0,exact name
+213507,MAC Freedom,D3,Lebanon Valley College,Lebanon Valley College,0,0,exact name
+214069,MAC Freedom,D3,Misericordia University,Misericordia University,0,0,exact name
+186867,MAC Freedom,D3,Stevens Institute of Technology,Stevens Institute of Technology,0,0,exact name
+165024,Massachusetts State Collegiate Athletic Conference,D3,Bridgewater State University,Bridgewater State University,0,0,exact name
+165820,Massachusetts State Collegiate Athletic Conference,D3,Fitchburg State University,Fitchburg State University,0,0,exact name
+165866,Massachusetts State Collegiate Athletic Conference,D3,Framingham State University,Framingham State University,0,0,exact name
+167288,Massachusetts State Collegiate Athletic Conference,D3,Massachusetts College of Liberal Arts,Massachusetts College of Liberal Arts,0,0,exact name
+166692,Massachusetts State Collegiate Athletic Conference,D3,Massachusetts Maritime Academy,Massachusetts Maritime Academy,0,0,exact name
+167729,Massachusetts State Collegiate Athletic Conference,D3,Salem State University,Salem State University,0,0,exact name
+168263,Massachusetts State Collegiate Athletic Conference,D3,Westfield State University,Westfield State University,0,0,exact name
+168430,Massachusetts State Collegiate Athletic Conference,D3,Worcester State University,Worcester State University,0,0,exact name
+168528,Michigan Intercollegiate Athletic Association,D3,Adrian College,Adrian College,0,0,exact name
+168546,Michigan Intercollegiate Athletic Association,D3,Albion College,Albion College,0,0,exact name
+168591,Michigan Intercollegiate Athletic Association,D3,Alma College,Alma College,0,0,exact name
+169080,Michigan Intercollegiate Athletic Association,D3,Calvin University,Calvin University,0,0,exact name
+170301,Michigan Intercollegiate Athletic Association,D3,Hope College,Hope College,0,0,exact name
+170532,Michigan Intercollegiate Athletic Association,D3,Kalamazoo College,Kalamazoo College,0,0,exact name
+171599,Michigan Intercollegiate Athletic Association,D3,University of Olivet,The University of Olivet,0,0,exact name
+152567,Michigan Intercollegiate Athletic Association,D3,Trine University,Trine University,0,0,exact name
+238333,Midwest Conference,D3,Beloit College,Beloit College,0,0,exact name
+153162,Midwest Conference,D3,Cornell College,Cornell College,0,0,exact name
+153384,Midwest Conference,D3,Grinnell College,Grinnell College,0,0,exact name
+145691,Midwest Conference,D3,Illinois College,Illinois College,0,0,exact name
+146427,Midwest Conference,D3,Knox College,Knox College,0,0,exact name
+146481,Midwest Conference,D3,Lake Forest College,Lake Forest College,0,0,exact name
+239017,Midwest Conference,D3,Lawrence University,Lawrence University,0,0,exact name
+147341,Midwest Conference,D3,Monmouth College,Monmouth College,0,0,exact name
+239628,Midwest Conference,D3,Ripon College,Ripon College,0,0,exact name
+173045,Minnesota Intercollegiate Athletic Conference,D3,Augsburg University,Augsburg University,0,0,exact name
+173160,Minnesota Intercollegiate Athletic Conference,D3,Bethel University,Bethel University,0,0,exact name
+173258,Minnesota Intercollegiate Athletic Conference,D3,Carleton College,Carleton College,0,0,exact name
+173300,Minnesota Intercollegiate Athletic Conference,D3,Concordia College,Concordia College at Moorhead,0,0,name and city
+173647,Minnesota Intercollegiate Athletic Conference,D3,Gustavus Adolphus College,Gustavus Adolphus College,0,0,exact name
+173665,Minnesota Intercollegiate Athletic Conference,D3,Hamline University,Hamline University,0,0,exact name
+173902,Minnesota Intercollegiate Athletic Conference,D3,Macalester College,Macalester College,0,0,exact name
+174817,Minnesota Intercollegiate Athletic Conference,D3,Saint Mary's University of Minnesota,Saint Mary's University of Minnesota,0,0,exact name
+175005,Minnesota Intercollegiate Athletic Conference,D3,St. Catherine University,St Catherine University,0,0,exact name
+174844,Minnesota Intercollegiate Athletic Conference,D3,St. Olaf College,St Olaf College,0,0,exact name
+174899,Minnesota Intercollegiate Athletic Conference,D3,The College of St. Scholastica,The College of Saint Scholastica,0,0,exact name
+164465,New England Small College Athletic Conference,D3,Amherst College,Amherst College,0,0,exact name
+160977,New England Small College Athletic Conference,D3,Bates College,Bates College,0,0,exact name
+161004,New England Small College Athletic Conference,D3,Bowdoin College,Bowdoin College,0,0,exact name
+161086,New England Small College Athletic Conference,D3,Colby College,Colby College,0,0,exact name
+128902,New England Small College Athletic Conference,D3,Connecticut College,Connecticut College,0,0,exact name
+191515,New England Small College Athletic Conference,D3,Hamilton College,Hamilton College,0,0,exact name
+230959,New England Small College Athletic Conference,D3,Middlebury College,Middlebury College,0,0,exact name
+130590,New England Small College Athletic Conference,D3,Trinity College,Trinity College,0,0,exact name
+168148,New England Small College Athletic Conference,D3,Tufts University,Tufts University,0,0,exact name
+130697,New England Small College Athletic Conference,D3,Wesleyan University,Wesleyan University,0,0,exact name
+168342,New England Small College Athletic Conference,D3,Williams College,Williams College,0,0,exact name
+164580,New England Women's and Men's Athletic Conference,D3,Babson College,Babson College,0,0,exact name
+165334,New England Women's and Men's Athletic Conference,D3,Clark University,Clark University,0,0,exact name
+165662,New England Women's and Men's Athletic Conference,D3,Emerson College,Emerson College,0,0,exact name
+166683,New England Women's and Men's Athletic Conference,D3,Massachusetts Institute of Technology,Massachusetts Institute of Technology,0,0,exact name
+217536,New England Women's and Men's Athletic Conference,D3,Salve Regina University,Salve Regina University,0,0,exact name
+167899,New England Women's and Men's Athletic Conference,D3,Springfield College,Springfield College,0,0,exact name
+168218,New England Women's and Men's Athletic Conference,D3,Wellesley College,Wellesley College,0,0,exact name
+168281,New England Women's and Men's Athletic Conference,D3,Wheaton College,Wheaton College (Massachusetts),0,0,name and city
+168421,New England Women's and Men's Athletic Conference,D3,Worcester Polytechnic Institute,Worcester Polytechnic Institute,0,0,exact name
+185262,New Jersey Athletic Conference,D3,Kean University,Kean University,0,0,exact name
+185590,New Jersey Athletic Conference,D3,Montclair State University,Montclair State University,0,0,exact name
+185129,New Jersey Athletic Conference,D3,New Jersey City University,New Jersey City University,0,0,exact name
+186201,New Jersey Athletic Conference,D3,Ramapo College,Ramapo College of New Jersey,0,0,city and partial name
+184782,New Jersey Athletic Conference,D3,Rowan University,Rowan University,0,0,exact name
+186371,New Jersey Athletic Conference,D3,Rutgers University–Camden,Rutgers University-Camden,0,0,exact name
+186399,New Jersey Athletic Conference,D3,Rutgers University–Newark,Rutgers University-Newark,0,0,exact name
+186876,New Jersey Athletic Conference,D3,Stockton University,Stockton University,0,0,exact name
+187134,New Jersey Athletic Conference,D3,The College of New Jersey,The College of New Jersey,0,0,exact name
+187444,New Jersey Athletic Conference,D3,William Paterson University,William Paterson University of New Jersey,0,0,name and city
+487524,North Atlantic Conference,D3,Husson University,Husson University,0,0,exact name
+166452,North Atlantic Conference,D3,Lesley University,Lesley University,0,0,exact name
+161299,North Atlantic Conference,D3,Maine Maritime Academy,Maine Maritime Academy,0,0,exact name
+196033,North Atlantic Conference,D3,State University of New York at Cobleskill,SUNY College of Agriculture and Technology at Cobleskill,0,0,override: EADA name is SUNY College of Agriculture and Technology at Cobleskill
+196024,North Atlantic Conference,D3,State University of New York at Delhi,SUNY College of Technology at Delhi,0,0,override: EADA name is SUNY College of Technology at Delhi
+161563,North Atlantic Conference,D3,Thomas College,Thomas College,0,0,exact name
+161226,North Atlantic Conference,D3,University of Maine at Farmington,University of Maine at Farmington,0,0,exact name
+161341,North Atlantic Conference,D3,University of Maine at Presque Isle,University of Maine at Presque Isle,0,0,exact name
+150400,North Coast Athletic Conference,D3,DePauw University,DePauw University,0,0,exact name
+202523,North Coast Athletic Conference,D3,Denison University,Denison University,0,0,exact name
+203128,North Coast Athletic Conference,D3,Hiram College,Hiram College,0,0,exact name
+203535,North Coast Athletic Conference,D3,Kenyon College,Kenyon College,0,0,exact name
+204501,North Coast Athletic Conference,D3,Oberlin College,Oberlin College,0,0,exact name
+204909,North Coast Athletic Conference,D3,Ohio Wesleyan University,Ohio Wesleyan University,0,0,exact name
+206589,North Coast Athletic Conference,D3,College of Wooster,The College of Wooster,0,0,exact name
+206525,North Coast Athletic Conference,D3,Wittenberg University,Wittenberg University,0,0,exact name
+238193,Northern Athletics Collegiate Conference,D3,Alverno College,Alverno College,0,0,exact name
+143118,Northern Athletics Collegiate Conference,D3,Aurora University,Aurora University,0,0,exact name
+145619,Northern Athletics Collegiate Conference,D3,Benedictine University,Benedictine University,0,0,exact name
+144351,Northern Athletics Collegiate Conference,D3,Concordia University Chicago,Concordia University-Chicago,0,0,exact name
+238616,Northern Athletics Collegiate Conference,D3,Concordia University Wisconsin,Concordia University-Wisconsin,0,0,exact name
+148496,Northern Athletics Collegiate Conference,D3,Dominican University,Dominican University,0,0,exact name
+238661,Northern Athletics Collegiate Conference,D3,Edgewood College,Edgewood College,0,0,exact name
+145725,Northern Athletics Collegiate Conference,D3,Illinois Institute of Technology,Illinois Institute of Technology,0,0,exact name
+238980,Northern Athletics Collegiate Conference,D3,Lakeland University,Lakeland University,0,0,exact name
+239080,Northern Athletics Collegiate Conference,D3,Marian University,Marian University,0,0,exact name
+239318,Northern Athletics Collegiate Conference,D3,Milwaukee School of Engineering,Milwaukee School of Engineering,0,0,exact name
+148405,Northern Athletics Collegiate Conference,D3,Rockford University,Rockford University,0,0,exact name
+239716,Northern Athletics Collegiate Conference,D3,St. Norbert College,Saint Norbert College,0,0,exact name
+240338,Northern Athletics Collegiate Conference,D3,Wisconsin Lutheran College,Wisconsin Lutheran College,0,0,exact name
+208822,Northwest Conference,D3,George Fox University,George Fox University,0,0,exact name
+209056,Northwest Conference,D3,Lewis & Clark College,Lewis & Clark College,0,0,exact name
+209065,Northwest Conference,D3,Linfield University,Linfield University,0,0,exact name
+236230,Northwest Conference,D3,Pacific Lutheran University,Pacific Lutheran University,0,0,exact name
+209612,Northwest Conference,D3,Pacific University,Pacific University,0,0,exact name
+236328,Northwest Conference,D3,University of Puget Sound,University of Puget Sound,0,0,exact name
+237057,Northwest Conference,D3,Whitman College,Whitman College,0,0,exact name
+237066,Northwest Conference,D3,Whitworth University,Whitworth University,0,0,exact name
+210401,Northwest Conference,D3,Willamette University,Willamette University,0,0,exact name
+201195,Ohio Athletic Conference,D3,Baldwin Wallace University,Baldwin Wallace University,0,0,exact name
+201548,Ohio Athletic Conference,D3,Capital University,Capital University,0,0,exact name
+203085,Ohio Athletic Conference,D3,Heidelberg University,Heidelberg University,0,0,exact name
+203368,Ohio Athletic Conference,D3,John Carroll University,John Carroll University,0,0,exact name
+203845,Ohio Athletic Conference,D3,Marietta College,Marietta College,0,0,exact name
+204264,Ohio Athletic Conference,D3,Muskingum University,Muskingum University,0,0,exact name
+204635,Ohio Athletic Conference,D3,Ohio Northern University,Ohio Northern University,0,0,exact name
+204936,Ohio Athletic Conference,D3,Otterbein University,Otterbein University,0,0,exact name
+204185,Ohio Athletic Conference,D3,University of Mount Union,University of Mount Union,0,0,exact name
+206507,Ohio Athletic Conference,D3,Wilmington College,Wilmington College,0,0,exact name
+231420,Old Dominion Athletic Conference,D3,Averett University,Averett University,0,0,exact name
+231581,Old Dominion Athletic Conference,D3,Bridgewater College,Bridgewater College,0,0,exact name
+232043,Old Dominion Athletic Conference,D3,Eastern Mennonite University,Eastern Mennonite University,0,0,exact name
+232089,Old Dominion Athletic Conference,D3,Ferrum College,Ferrum College,0,0,exact name
+198613,Old Dominion Athletic Conference,D3,Guilford College,Guilford College,0,0,exact name
+233301,Old Dominion Athletic Conference,D3,Randolph College,Randolph College,0,0,exact name
+233295,Old Dominion Athletic Conference,D3,Randolph–Macon College,Randolph-Macon College,0,0,exact name
+233426,Old Dominion Athletic Conference,D3,Roanoke College,Roanoke College,0,0,exact name
+233541,Old Dominion Athletic Conference,D3,Shenandoah University,Shenandoah University,0,0,exact name
+232609,Old Dominion Athletic Conference,D3,University of Lynchburg,University of Lynchburg,0,0,exact name
+234173,Old Dominion Athletic Conference,D3,Virginia Wesleyan University,Virginia Wesleyan University,0,0,exact name
+234207,Old Dominion Athletic Conference,D3,Washington and Lee University,Washington and Lee University,0,0,exact name
+210669,Presidents' Athletic Conference,D3,Allegheny College,Allegheny College,0,0,exact name
+237181,Presidents' Athletic Conference,D3,Bethany College,Bethany College,0,0,exact name
+211556,Presidents' Athletic Conference,D3,Chatham University,Chatham University,0,0,exact name
+205957,Presidents' Athletic Conference,D3,Franciscan University of Steubenville,Franciscan University of Steubenville,0,0,exact name
+212656,Presidents' Athletic Conference,D3,Geneva College,Geneva College,0,0,exact name
+215798,Presidents' Athletic Conference,D3,Saint Vincent College,Saint Vincent College,0,0,exact name
+216357,Presidents' Athletic Conference,D3,Thiel College,Thiel College,0,0,exact name
+216667,Presidents' Athletic Conference,D3,Washington & Jefferson College,Washington & Jefferson College,0,0,exact name
+216694,Presidents' Athletic Conference,D3,Waynesburg University,Waynesburg University,1,0,exact name
+216807,Presidents' Athletic Conference,D3,Westminster College,Westminster College,0,0,exact name
+196042,Skyline Conference,D3,Farmingdale State College,Farmingdale State College,0,0,exact name
+192749,Skyline Conference,D3,Manhattanville University,Manhattanville University,0,0,exact name
+193353,Skyline Conference,D3,Mount Saint Mary College,Mount Saint Mary College,0,0,exact name
+196291,Skyline Conference,D3,State University of New York Maritime College,SUNY Maritime College,0,0,override: EADA name is SUNY Maritime College
+196237,Skyline Conference,D3,State University of New York at Old Westbury,SUNY Old Westbury,0,0,only school of this division in the city
+196219,Skyline Conference,D3,State University of New York at Purchase,SUNY at Purchase College,0,0,override: EADA name is SUNY at Purchase College
+195304,Skyline Conference,D3,Sarah Lawrence College,Sarah Lawrence College,0,0,exact name
+195544,Skyline Conference,D3,St. Joseph's University / St. Joseph's University,St. Joseph's University-New York,0,0,name and city
+197027,Skyline Conference,D3,United States Merchant Marine Academy,United States Merchant Marine Academy,0,0,exact name
+193399,Skyline Conference,D3,University of Mount Saint Vincent,University of Mount Saint Vincent,0,0,exact name
+197708,Skyline Conference,D3,Yeshiva University,Yeshiva University,0,0,exact name
+139144,Southern Athletic Association,D3,Berry College,Berry College,0,0,exact name
+156408,Southern Athletic Association,D3,Centre College,Centre College,0,0,exact name
+107080,Southern Athletic Association,D3,Hendrix College,Hendrix College,0,0,exact name
+175980,Southern Athletic Association,D3,Millsaps College,Millsaps College,0,0,exact name
+140696,Southern Athletic Association,D3,Oglethorpe University,Oglethorpe University,0,0,exact name
+221351,Southern Athletic Association,D3,Rhodes College,Rhodes College,0,0,exact name
+221519,Southern Athletic Association,D3,University of the South,The University of the South,0,0,exact name
+110404,Southern California Intercollegiate Athletic Conference,D3,California Institute of Technology,California Institute of Technology,0,0,exact name
+110413,Southern California Intercollegiate Athletic Conference,D3,California Lutheran University,California Lutheran University,0,0,exact name
+111948,Southern California Intercollegiate Athletic Conference,D3,Chapman University,Chapman University,0,0,exact name
+112260,Southern California Intercollegiate Athletic Conference,D3,"Claremont McKenna College, Harvey Mudd College, and Scripps College",Claremont McKenna College,0,0,city and partial name
+120254,Southern California Intercollegiate Athletic Conference,D3,Occidental College,Occidental College,0,0,exact name
+121345,Southern California Intercollegiate Athletic Conference,D3,Pomona College and Pitzer College,Pomona College,0,0,override: joint program; both colleges file the same athlete counts and the Pomona record is used
+117140,Southern California Intercollegiate Athletic Conference,D3,University of La Verne,University of La Verne,0,0,exact name
+121691,Southern California Intercollegiate Athletic Conference,D3,University of Redlands,University of Redlands,0,0,exact name
+125763,Southern California Intercollegiate Athletic Conference,D3,Whittier College,Whittier College,0,0,exact name
+222983,Southern Collegiate Athletic Conference,D3,Austin College,Austin College,0,0,exact name
+158477,Southern Collegiate Athletic Conference,D3,Centenary College of Louisiana,Centenary College of Louisiana,0,0,exact name
+126678,Southern Collegiate Athletic Conference,D3,Colorado College,Colorado College,0,0,exact name
+224004,Southern Collegiate Athletic Conference,D3,Concordia University Texas,Concordia University Texas,0,0,exact name
+226587,Southern Collegiate Athletic Conference,D3,McMurry University,McMurry University,0,0,exact name
+228042,Southern Collegiate Athletic Conference,D3,Schreiner University,Schreiner University,0,0,exact name
+228343,Southern Collegiate Athletic Conference,D3,Southwestern University,Southwestern University,0,0,exact name
+228981,Southern Collegiate Athletic Conference,D3,Texas Lutheran University,Texas Lutheran University,0,0,exact name
+229267,Southern Collegiate Athletic Conference,D3,Trinity University,Trinity University,0,0,exact name
+224323,Southern Collegiate Athletic Conference,D3,University of Dallas,University of Dallas,0,0,exact name
+227863,Southern Collegiate Athletic Conference,D3,University of St. Thomas (Texas),University of St Thomas,0,0,name and city
+107558,Southern Collegiate Athletic Conference,D3,University of the Ozarks,University of the Ozarks,0,0,exact name
+143288,St. Louis Intercollegiate Athletic Conference,D3,Blackburn College,Blackburn College,0,0,exact name
+144971,St. Louis Intercollegiate Athletic Conference,D3,Eureka College,Eureka College,0,0,exact name
+145372,St. Louis Intercollegiate Athletic Conference,D3,Greenville University,Greenville University,0,0,exact name
+106342,St. Louis Intercollegiate Athletic Conference,D3,Lyon College,Lyon College,0,0,exact name
+176035,St. Louis Intercollegiate Athletic Conference,D3,Mississippi University for Women,Mississippi University for Women,0,0,exact name
+148016,St. Louis Intercollegiate Athletic Conference,D3,Principia College,Principia College,0,0,exact name
+157757,St. Louis Intercollegiate Athletic Conference,D3,Spalding University,Spalding University,0,0,exact name
+179894,St. Louis Intercollegiate Athletic Conference,D3,Webster University,Webster University,0,0,exact name
+179946,St. Louis Intercollegiate Athletic Conference,D3,Westminster College,Westminster College,0,0,exact name
+196130,State University of New York Athletic Conference,D3,Buffalo State University,SUNY Buffalo State University,0,0,name and city
+196200,State University of New York Athletic Conference,D3,State University of New York at Potsdam,SUNY College at Potsdam,0,0,override: EADA name is SUNY College at Potsdam
+196015,State University of New York Athletic Conference,D3,State University of New York at Canton,SUNY College of Technology at Canton,0,0,override: EADA name is SUNY College of Technology at Canton
+196051,State University of New York Athletic Conference,D3,State University of New York at Morrisville,SUNY Morrisville,0,0,only school of this division in the city
+196185,State University of New York Athletic Conference,D3,State University of New York at Oneonta,SUNY Oneonta,0,0,override: EADA name is SUNY Oneonta
+196158,State University of New York Athletic Conference,D3,State University of New York at Fredonia,SUNY at Fredonia,0,0,only school of this division in the city
+196149,State University of New York Athletic Conference,D3,State University of New York at Cortland,State University of New York at Cortland,0,0,exact name
+196176,State University of New York Athletic Conference,D3,State University of New York at New Paltz,State University of New York at New Paltz,0,0,exact name
+196194,State University of New York Athletic Conference,D3,State University of New York at Oswego,State University of New York at Oswego,0,0,exact name
+196246,State University of New York Athletic Conference,D3,State University of New York at Plattsburgh,State University of New York at Plattsburgh,0,0,exact name
+198066,USA South Athletic Conference,D3,Brevard College,Brevard College,0,0,exact name
+198598,USA South Athletic Conference,D3,Greensboro College,Greensboro College,0,0,exact name
+232672,USA South Athletic Conference,D3,Mary Baldwin University,Mary Baldwin University,0,0,exact name
+198969,USA South Athletic Conference,D3,Methodist University,Methodist University,0,0,exact name
+199209,USA South Athletic Conference,D3,North Carolina Wesleyan University,North Carolina Wesleyan University,0,0,exact name
+199306,USA South Athletic Conference,D3,Pfeiffer University,Pfeiffer University,0,0,exact name
+233611,USA South Athletic Conference,D3,Southern Virginia University,Southern Virginia University,0,0,exact name
+199272,USA South Athletic Conference,D3,William Peace University,William Peace University,0,0,exact name
+215114,United East Conference,D3,Cairn University,Cairn University-Langhorne,0,0,name and city
+211468,United East Conference,D3,Cedar Crest College,Cedar Crest College,0,0,exact name
+131450,United East Conference,D3,Gallaudet University,Gallaudet University,0,0,exact name
+213303,United East Conference,D3,Keystone College,Keystone College,0,0,exact name
+213400,United East Conference,D3,Lancaster Bible College,Lancaster Bible College,0,0,exact name
+163578,United East Conference,D3,Notre Dame of Maryland University,Notre Dame of Maryland University,0,0,exact name
+366252,United East Conference,D3,Pennsylvania College of Technology,Pennsylvania College of Technology,0,0,exact name
+214801,United East Conference,D3,"Pennsylvania State University, Abington",Pennsylvania State University-Penn State Abington,0,0,name and city
+214704,United East Conference,D3,"Pennsylvania State University, Berks College",Pennsylvania State University-Penn State Berks,0,0,name and city
+214731,United East Conference,D3,"Pennsylvania State University, Brandywine",Pennsylvania State University-Penn State Brandywine,0,0,name and city
+214713,United East Conference,D3,"Pennsylvania State University, Harrisburg",Pennsylvania State University-Penn State Harrisburg,0,0,name and state
+215691,United East Conference,D3,Rosemont College,Rosemont College,0,0,exact name
+186618,United East Conference,D3,Saint Elizabeth University,Saint Elizabeth University,0,0,exact name
+163912,United East Conference,D3,St. Mary's College of Maryland,St. Mary's College of Maryland,0,0,exact name
+216542,United East Conference,D3,University of Valley Forge,University of Valley Forge,0,0,exact name
+217013,United East Conference,D3,Wilson College,Wilson College,0,0,exact name
+165015,University Athletic Association,D3,Brandeis University,Brandeis University,0,0,exact name
+211440,University Athletic Association,D3,Carnegie Mellon University,Carnegie Mellon University,0,0,exact name
+201645,University Athletic Association,D3,Case Western Reserve University,Case Western Reserve University,0,0,exact name
+139658,University Athletic Association,D3,Emory University,Emory University,0,0,exact name
+193900,University Athletic Association,D3,New York University,New York University,0,0,exact name
+144050,University Athletic Association,D3,University of Chicago,University of Chicago,0,0,exact name
+195030,University Athletic Association,D3,University of Rochester,University of Rochester,0,0,exact name
+179867,University Athletic Association,D3,Washington University in St. Louis,Washington University in St Louis,0,0,exact name
+173142,Upper Midwest Athletic Conference,D3,Bethany Lutheran College,Bethany Lutheran College,0,0,exact name
+174862,Upper Midwest Athletic Conference,D3,Crown College,Crown College,0,0,exact name
+173452,Upper Midwest Athletic Conference,D3,Martin Luther College,Martin Luther College,0,0,exact name
+174437,Upper Midwest Athletic Conference,D3,North Central University,North Central University,0,0,exact name
+174251,Upper Midwest Athletic Conference,D3,University of Minnesota Morris,University of Minnesota-Morris,0,0,exact name
+174491,Upper Midwest Athletic Conference,D3,University of Northwestern - St. Paul,University of Northwestern-St Paul,0,0,exact name
+240426,Upper Midwest Athletic Conference,D3,University of Wisconsin–Superior,University of Wisconsin-Superior,0,0,exact name
+240268,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Eau Claire,University of Wisconsin-Eau Claire,0,0,exact name
+240329,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–La Crosse,University of Wisconsin-La Crosse,0,0,exact name
+240365,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Oshkosh,University of Wisconsin-Oshkosh,0,0,exact name
+240462,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Platteville,University of Wisconsin-Platteville,0,0,exact name
+240471,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–River Falls,University of Wisconsin-River Falls,0,0,exact name
+240480,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Stevens Point,University of Wisconsin-Stevens Point,0,0,exact name
+240417,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Stout,University of Wisconsin-Stout,1,0,exact name
+240189,Wisconsin Intercollegiate Athletic Conference,D3,University of Wisconsin–Whitewater,University of Wisconsin-Whitewater,0,0,exact name
+106713,American Midwest Conference,NAIA,Central Baptist College,Central Baptist College,0,0,exact name
+177065,American Midwest Conference,NAIA,Columbia College (MO),Columbia College,0,0,name and city
+106810,American Midwest Conference,NAIA,Crowley's Ridge College,Crowley's Ridge College,0,0,exact name
+177542,American Midwest Conference,NAIA,Hannibal–LaGrange University,Hannibal-LaGrange University,0,0,exact name
+177551,American Midwest Conference,NAIA,Harris–Stowe State University,Harris-Stowe State University,0,0,exact name
+176664,American Midwest Conference,NAIA,Mission University,Mission University,0,0,exact name
+178244,American Midwest Conference,NAIA,Missouri Baptist University,Missouri Baptist University,0,0,exact name
+179548,American Midwest Conference,NAIA,Stephens College,Stephens College,0,0,exact name
+179265,American Midwest Conference,NAIA,University of Health Sciences and Pharmacy in St. Louis,University of Health Sciences and Pharmacy in St. Louis,0,0,exact name
+179964,American Midwest Conference,NAIA,William Woods University,William Woods University,0,0,exact name
+107877,American Midwest Conference,NAIA,Williams Baptist University,Williams Baptist University,0,0,exact name
+231554,Appalachian Athletic Conference,NAIA,Bluefield University,Bluefield University,0,0,exact name
+139199,Appalachian Athletic Conference,NAIA,Brenau University,Brenau University,0,0,exact name
+219790,Appalachian Athletic Conference,NAIA,Bryan College,Bryan College-Dayton,0,0,name and city
+217934,Appalachian Athletic Conference,NAIA,Columbia College (SC),Columbia College,0,0,name and city
+217925,Appalachian Athletic Conference,NAIA,Columbia International University,Columbia International University,0,0,exact name
+220473,Appalachian Athletic Conference,NAIA,Johnson University,Johnson University,0,0,exact name
+157100,Appalachian Athletic Conference,NAIA,Kentucky Christian University,Kentucky Christian University,0,0,exact name
+486901,Appalachian Athletic Conference,NAIA,Milligan University,Milligan University,0,0,exact name
+199032,Appalachian Athletic Conference,NAIA,Montreat College,Montreat College,0,0,exact name
+140872,Appalachian Athletic Conference,NAIA,Reinhardt University,Reinhardt University,0,0,exact name
+221731,Appalachian Athletic Conference,NAIA,Tennessee Wesleyan University,Tennessee Wesleyan University,0,0,exact name
+141237,Appalachian Athletic Conference,NAIA,Truett McConnell University,Truett McConnell University,0,0,exact name
+157863,Appalachian Athletic Conference,NAIA,Union Commonwealth University,Union Commonwealth University,0,0,exact name
+157535,Appalachian Athletic Conference,NAIA,University of Pikeville,University of Pikeville,0,0,exact name
+111188,California Pacific Conference,NAIA,California State University Maritime Academy (Cal Maritime),California State University Maritime Academy,0,0,name and city
+117627,California Pacific Conference,NAIA,La Sierra University,La Sierra University,0,0,exact name
+120865,California Pacific Conference,NAIA,Pacific Union College,Pacific Union College,0,0,exact name
+123457,California Pacific Conference,NAIA,Simpson University,Simpson University,0,0,exact name
+399911,California Pacific Conference,NAIA,Soka University of America,Soka University of America,0,0,exact name
+445188,California Pacific Conference,NAIA,"University of California, Merced (UC Merced)",University of California-Merced,0,0,name and city
+490133,California Pacific Conference,NAIA,Westcliff University,Westcliff University,0,0,exact name
+209409,Cascade Collegiate Conference,NAIA,Bushnell University,Bushnell University,0,0,exact name
+210331,Cascade Collegiate Conference,NAIA,Corban University,Corban University,0,0,exact name
+208646,Cascade Collegiate Conference,NAIA,Eastern Oregon University,Eastern Oregon University,0,0,exact name
+142328,Cascade Collegiate Conference,NAIA,Lewis–Clark State College,Lewis-Clark State College,0,0,exact name
+236133,Cascade Collegiate Conference,NAIA,Northwest University,Northwest University,0,0,exact name
+209506,Cascade Collegiate Conference,NAIA,Oregon Institute of Technology (Oregon Tech),Oregon Institute of Technology,0,0,name and city
+210146,Cascade Collegiate Conference,NAIA,Southern Oregon University,Southern Oregon University,0,0,exact name
+142294,Cascade Collegiate Conference,NAIA,College of Idaho,The College of Idaho,0,0,exact name
+235167,Cascade Collegiate Conference,NAIA,The Evergreen State College,The Evergreen State College,0,0,exact name
+236896,Cascade Collegiate Conference,NAIA,Walla Walla University,Walla Walla University,0,0,exact name
+210304,Cascade Collegiate Conference,NAIA,Warner Pacific University,Warner Pacific University,0,0,exact name
+150172,Chicagoland Collegiate Athletic Conference,NAIA,Calumet College of St. Joseph,Calumet College of Saint Joseph,0,0,exact name
+145336,Chicagoland Collegiate Athletic Conference,NAIA,Governors State University,Governors State University,0,0,exact name
+150774,Chicagoland Collegiate Athletic Conference,NAIA,Holy Cross College,Holy Cross College,0,0,exact name
+151360,Chicagoland Collegiate Athletic Conference,NAIA,Indiana University Northwest,Indiana University-Northwest,0,0,exact name
+151342,Chicagoland Collegiate Athletic Conference,NAIA,Indiana University South Bend,Indiana University-South Bend,0,0,exact name
+146339,Chicagoland Collegiate Athletic Conference,NAIA,Judson University,Judson University,0,0,exact name
+147828,Chicagoland Collegiate Athletic Conference,NAIA,Olivet Nazarene University,Olivet Nazarene University,0,0,exact name
+154235,Chicagoland Collegiate Athletic Conference,NAIA,St. Ambrose University,Saint Ambrose University,0,0,exact name
+148627,Chicagoland Collegiate Athletic Conference,NAIA,Saint Xavier University,Saint Xavier University,0,0,exact name
+149505,Chicagoland Collegiate Athletic Conference,NAIA,Trinity Christian College,Trinity Christian College,0,0,exact name
+148584,Chicagoland Collegiate Athletic Conference,NAIA,University of St. Francis,University of St Francis,0,0,exact name
+240107,Chicagoland Collegiate Athletic Conference,NAIA,Viterbo University,Viterbo University,0,0,exact name
+106306,Continental Athletic Conference,NAIA,Arkansas Baptist College,Arkansas Baptist College,0,0,exact name
+489937,Continental Athletic Conference,NAIA,Carolina University,Carolina University,0,0,exact name
+165802,Continental Athletic Conference,NAIA,Fisher College,Fisher College,0,0,exact name
+133809,Continental Athletic Conference,NAIA,Florida College,Florida College,0,0,exact name
+408844,Continental Athletic Conference,NAIA,Florida National University,Florida National University-Main Campus,0,0,exact name
+447689,Continental Athletic Conference,NAIA,Georgia Gwinnett College,Georgia Gwinnett College,0,0,exact name
+155140,Continental Athletic Conference,NAIA,Haskell Indian Nations University,Haskell Indian Nations University,0,0,exact name
+218399,Continental Athletic Conference,NAIA,Morris College,Morris College,0,0,exact name
+188058,Continental Athletic Conference,NAIA,Northern New Mexico College,Northern New Mexico College,0,0,exact name
+218821,Continental Athletic Conference,NAIA,Spartanburg Methodist College,Spartanburg Methodist College,0,0,exact name
+162210,Continental Athletic Conference,NAIA,Washington Adventist University,Washington Adventist University,0,0,exact name
+150145,Crossroads League,NAIA,Bethel University (IN),Bethel University,0,0,exact name
+150668,Crossroads League,NAIA,Goshen College,Goshen College,0,0,exact name
+150677,Crossroads League,NAIA,Grace College & Seminary,Grace College and Theological Seminary,0,0,name and city
+150941,Crossroads League,NAIA,Huntington University,Huntington University,0,0,exact name
+151801,Crossroads League,NAIA,Indiana Wesleyan University,Indiana Wesleyan University-Marion,0,0,name and city
+151786,Crossroads League,NAIA,Marian University,Marian University,0,0,exact name
+204194,Crossroads League,NAIA,Mount Vernon Nazarene University,Mount Vernon Nazarene University,0,0,exact name
+172334,Crossroads League,NAIA,Spring Arbor University,Spring Arbor University,0,0,exact name
+152530,Crossroads League,NAIA,Taylor University,Taylor University,0,0,exact name
+152336,Crossroads League,NAIA,University of Saint Francis,University of Saint Francis-Fort Wayne,0,0,name and city
+180106,Frontier Conference,NAIA,Carroll College,Carroll College,0,0,exact name
+180522,Frontier Conference,NAIA,Montana State University–Northern,Montana State University-Northern,0,0,exact name
+180416,Frontier Conference,NAIA,Montana Technological University (Montana Tech),Montana Technological University,0,0,name and city
+180595,Frontier Conference,NAIA,Rocky Mountain College,Rocky Mountain College,0,0,exact name
+180692,Frontier Conference,NAIA,University of Montana–Western,The University of Montana-Western,0,0,exact name
+180258,Frontier Conference,NAIA,University of Providence,University of Providence,0,0,exact name
+152992,Great Plains Athletic Conference,NAIA,Briar Cliff University,Briar Cliff University,0,0,exact name
+180984,Great Plains Athletic Conference,NAIA,Concordia University–Nebraska,Concordia University-Nebraska,0,0,exact name
+219091,Great Plains Athletic Conference,NAIA,Dakota Wesleyan University,Dakota Wesleyan University,0,0,exact name
+181020,Great Plains Athletic Conference,NAIA,Doane College,Doane University,0,0,exact name
+153250,Great Plains Athletic Conference,NAIA,Dordt University,Dordt University,0,0,exact name
+181127,Great Plains Athletic Conference,NAIA,Hastings College,Hastings College,0,0,exact name
+181330,Great Plains Athletic Conference,NAIA,Midland University,Midland University,0,0,exact name
+154004,Great Plains Athletic Conference,NAIA,Morningside University,Morningside University,0,0,exact name
+219198,Great Plains Athletic Conference,NAIA,Mount Marty University,Mount Marty University,0,0,exact name
+154101,Great Plains Athletic Conference,NAIA,Northwestern College,Northwestern College,0,0,exact name
+154518,Great Plains Athletic Conference,NAIA,Waldorf University,Waldorf University,0,0,exact name
+105899,Great Southwest Athletic Conference,NAIA,Arizona Christian University,Arizona Christian University,0,0,exact name
+104586,Great Southwest Athletic Conference,NAIA,"Embry–Riddle Aeronautical University, Prescott",Embry-Riddle Aeronautical University-Prescott,0,0,exact name
+120537,Great Southwest Athletic Conference,NAIA,Hope International University,Hope International University,0,0,exact name
+117104,Great Southwest Athletic Conference,NAIA,Life Pacific University,Life Pacific University,0,0,exact name
+464226,Great Southwest Athletic Conference,NAIA,Ottawa University Arizona,Ottawa University-Surprise,0,0,only school of this division in the city
+117751,Great Southwest Athletic Conference,NAIA,The Master's University,The Master's University and Seminary,0,0,name and city
+158802,HBCU Athletic Conference,NAIA,Dillard University,Dillard University,0,0,exact name
+220181,HBCU Athletic Conference,NAIA,Fisk University,Fisk University,0,0,exact name
+101912,HBCU Athletic Conference,NAIA,Oakwood University,Oakwood University,0,0,exact name
+107600,HBCU Athletic Conference,NAIA,Philander Smith University,Philander Smith University,0,0,exact name
+176318,HBCU Athletic Conference,NAIA,Rust College,Rust College,0,0,exact name
+160630,HBCU Athletic Conference,NAIA,Southern University at New Orleans (SUNO),Southern University at New Orleans,0,0,name and city
+102270,HBCU Athletic Conference,NAIA,Stillman College,Stillman College,0,0,exact name
+102298,HBCU Athletic Conference,NAIA,Talladega College,Talladega College,0,0,exact name
+176406,HBCU Athletic Conference,NAIA,Tougaloo College,Tougaloo College,0,0,exact name
+243665,HBCU Athletic Conference,NAIA,University of the Virgin Islands,University of the Virgin Islands,0,0,override: territory not in the state lookup
+218919,HBCU Athletic Conference,NAIA,Voorhees University,Voorhees University,0,0,exact name
+206491,HBCU Athletic Conference,NAIA,Wilberforce University,Wilberforce University,0,0,exact name
+229887,HBCU Athletic Conference,NAIA,Wiley University,Wiley University,0,0,exact name
+154688,Heart of America Athletic Conference,NAIA,Baker University,Baker University,0,0,exact name
+154712,Heart of America Athletic Conference,NAIA,Benedictine College,Benedictine College,0,0,exact name
+176947,Heart of America Athletic Conference,NAIA,Central Methodist University,Central Methodist University-College of Liberal Arts and Sciences,0,0,city and partial name
+153126,Heart of America Athletic Conference,NAIA,Clarke University,Clarke University,0,0,exact name
+177144,Heart of America Athletic Conference,NAIA,Culver–Stockton College,Culver-Stockton College,0,0,exact name
+153366,Heart of America Athletic Conference,NAIA,Graceland University,Graceland University-Lamoni,0,0,name and city
+153375,Heart of America Athletic Conference,NAIA,Grand View University,Grand View University,0,0,exact name
+155520,Heart of America Athletic Conference,NAIA,MidAmerica Nazarene University,MidAmerica Nazarene University,0,0,exact name
+178369,Heart of America Athletic Conference,NAIA,Missouri Valley College,Missouri Valley College,0,0,exact name
+154013,Heart of America Athletic Conference,NAIA,Mount Mercy University,Mount Mercy University,0,0,exact name
+178721,Heart of America Athletic Conference,NAIA,Park University,Park University,0,0,exact name
+181534,Heart of America Athletic Conference,NAIA,Peru State College,Peru State College,0,0,exact name
+154590,Heart of America Athletic Conference,NAIA,William Penn University,William Penn University,0,0,exact name
+176628,Kansas Collegiate Athletic Conference,NAIA,Avila University,Avila University,0,0,exact name
+154721,Kansas Collegiate Athletic Conference,NAIA,Bethany College,Bethany College,0,0,exact name
+154749,Kansas Collegiate Athletic Conference,NAIA,Bethel College (KS),Bethel College-North Newton,0,0,only school of this division in the city
+177339,Kansas Collegiate Athletic Conference,NAIA,Evangel University,Evangel University,0,0,exact name
+155089,Kansas Collegiate Athletic Conference,NAIA,Friends University,Friends University,0,0,exact name
+155414,Kansas Collegiate Athletic Conference,NAIA,Kansas Wesleyan University,Kansas Wesleyan University,0,0,exact name
+155511,Kansas Collegiate Athletic Conference,NAIA,McPherson College,McPherson College,0,0,exact name
+206835,Kansas Collegiate Athletic Conference,NAIA,Oklahoma Wesleyan University,Oklahoma Wesleyan University,0,0,exact name
+155627,Kansas Collegiate Athletic Conference,NAIA,Ottawa University,Ottawa University-Ottawa,0,0,exact name
+155900,Kansas Collegiate Athletic Conference,NAIA,Southwestern College,Southwestern College,0,0,exact name
+155937,Kansas Collegiate Athletic Conference,NAIA,Sterling College,Sterling College,0,0,exact name
+155973,Kansas Collegiate Athletic Conference,NAIA,Tabor College,Tabor College,0,0,exact name
+155812,Kansas Collegiate Athletic Conference,NAIA,University of Saint Mary,University of Saint Mary,0,0,exact name
+181853,Kansas Collegiate Athletic Conference,NAIA,York University,York University,0,0,exact name
+219718,Mid-South Conference,NAIA,Bethel University (TN),Bethel University,0,0,name and city
+156365,Mid-South Conference,NAIA,Campbellsville University,Campbellsville University,0,0,exact name
+219949,Mid-South Conference,NAIA,Cumberland University,Cumberland University,0,0,exact name
+220215,Mid-South Conference,NAIA,Freed–Hardeman University,Freed-Hardeman University,0,0,exact name
+156745,Mid-South Conference,NAIA,Georgetown College,Georgetown College,0,0,exact name
+157216,Mid-South Conference,NAIA,Lindsey Wilson College,Lindsey Wilson College,0,0,exact name
+156541,Mid-South Conference,NAIA,University of the Cumberlands,University of the Cumberlands,0,0,exact name
+180814,North Star Athletic Association,NAIA,Bellevue University,Bellevue University,0,0,exact name
+219082,North Star Athletic Association,NAIA,Dakota State University,Dakota State University,0,0,exact name
+200059,North Star Athletic Association,NAIA,Dickinson State University,Dickinson State University,0,0,exact name
+200226,North Star Athletic Association,NAIA,Mayville State University,Mayville State University,0,0,exact name
+200156,North Star Athletic Association,NAIA,University of Jamestown,University of Jamestown,1,0,exact name
+200572,North Star Athletic Association,NAIA,Valley City State University,Valley City State University,0,0,exact name
+225575,Red River Athletic Conference,NAIA,Huston–Tillotson University,Huston-Tillotson University,0,0,exact name
+225885,Red River Athletic Conference,NAIA,Jarvis Christian University,Jarvis Christian University,0,0,exact name
+159568,Red River Athletic Conference,NAIA,Louisiana Christian University,Louisiana Christian University,0,0,exact name
+159382,Red River Athletic Conference,NAIA,Louisiana State University at Alexandria (LSU Alexandria),Louisiana State University-Alexandria,0,0,name and city
+159416,Red River Athletic Conference,NAIA,Louisiana State University in Shreveport (LSU Shreveport),Louisiana State University-Shreveport,0,0,name and city
+461795,Red River Athletic Conference,NAIA,North American University,North American University,0,0,exact name
+227331,Red River Athletic Conference,NAIA,Our Lady of the Lake University,Our Lady of the Lake University,0,0,exact name
+227429,Red River Athletic Conference,NAIA,Paul Quinn College,Paul Quinn College,0,0,exact name
+459949,Red River Athletic Conference,NAIA,Texas A&M University–San Antonio,Texas A&M University-San Antonio,0,0,exact name
+224545,Red River Athletic Conference,NAIA,Texas A&M University–Texarkana,Texas A&M University-Texarkana,0,0,exact name
+228884,Red River Athletic Conference,NAIA,Texas College,Texas College,0,0,exact name
+225502,Red River Athletic Conference,NAIA,University of Houston–Victoria,University of Houston-Victoria,0,0,exact name
+188182,Red River Athletic Conference,NAIA,University of the Southwest,University of the Southwest,0,0,exact name
+160904,Red River Athletic Conference,NAIA,Xavier University of Louisiana,Xavier University of Louisiana,0,0,exact name
+156189,River States Conference,NAIA,Alice Lloyd College,Alice Lloyd College,0,0,exact name
+156356,River States Conference,NAIA,Brescia University,Brescia University,0,0,exact name
+151388,River States Conference,NAIA,Indiana University East,Indiana University-East,0,0,exact name
+151333,River States Conference,NAIA,Indiana University Kokomo,Indiana University-Kokomo,0,0,exact name
+151379,River States Conference,NAIA,Indiana University Southeast,Indiana University-Southeast,0,0,exact name
+157377,River States Conference,NAIA,Midway University,Midway University,0,0,exact name
+152099,River States Conference,NAIA,Oakland City University,Oakland City University,0,0,exact name
+152381,River States Conference,NAIA,Saint Mary-of-the-Woods College,Saint Mary-of-the-Woods College,0,0,exact name
+205443,River States Conference,NAIA,Shawnee State University,Shawnee State University,0,0,exact name
+205203,River States Conference,NAIA,University of Rio Grande,University of Rio Grande,0,0,exact name
+237950,River States Conference,NAIA,West Virginia University Institute of Technology (WVU Tech),West Virginia University Institute of Technology,0,0,name and city
+154855,Sooner Athletic Conference,NAIA,Central Christian College of Kansas,Central Christian College of Kansas,0,0,exact name
+178697,Sooner Athletic Conference,NAIA,College of the Ozarks,College of the Ozarks,0,0,exact name
+107141,Sooner Athletic Conference,NAIA,John Brown University,John Brown University,0,0,exact name
+207209,Sooner Athletic Conference,NAIA,Langston University,Langston University,0,0,exact name
+245953,Sooner Athletic Conference,NAIA,Mid-America Christian University,Mid-America Christian University,0,0,exact name
+228325,Sooner Athletic Conference,NAIA,Nelson University,Nelson University,0,0,exact name
+207458,Sooner Athletic Conference,NAIA,Oklahoma City University,Oklahoma City University,0,0,exact name
+207351,Sooner Athletic Conference,NAIA,Oklahoma Panhandle State University,Oklahoma Panhandle State University,0,0,exact name
+207856,Sooner Athletic Conference,NAIA,Southwestern Christian University,Southwestern Christian University,0,0,exact name
+229160,Sooner Athletic Conference,NAIA,Texas Wesleyan University,Texas Wesleyan University,0,0,exact name
+484905,Sooner Athletic Conference,NAIA,University of North Texas at Dallas,University of North Texas at Dallas,0,0,exact name
+207722,Sooner Athletic Conference,NAIA,University of Science and Arts of Oklahoma,University of Science and Arts of Oklahoma,0,0,exact name
+229780,Sooner Athletic Conference,NAIA,Wayland Baptist University,Wayland Baptist University,0,0,exact name
+138558,Southern States Athletic Conference,NAIA,Abraham Baldwin Agricultural College,Abraham Baldwin Agricultural College,0,0,exact name
+175430,Southern States Athletic Conference,NAIA,Blue Mountain Christian University,Blue Mountain Christian University,0,0,exact name
+139205,Southern States Athletic Conference,NAIA,Brewton–Parker College,Brewton-Parker College,0,0,exact name
+139463,Southern States Athletic Conference,NAIA,Dalton State College,Dalton State College,0,0,exact name
+101189,Southern States Athletic Conference,NAIA,Faulkner University,Faulkner University,0,0,exact name
+140252,Southern States Athletic Conference,NAIA,Life University,Life University,0,0,exact name
+159656,Southern States Athletic Conference,NAIA,Loyola University New Orleans,Loyola University New Orleans,0,0,exact name
+482158,Southern States Athletic Conference,NAIA,Middle Georgia State University,Middle Georgia State University,0,0,exact name
+138868,Southern States Athletic Conference,NAIA,Point University,Point University,0,0,exact name
+220701,Southern States Athletic Conference,NAIA,University of Tennessee Southern (UT Southern),The University of Tennessee Southern,0,0,name and city
+141167,Southern States Athletic Conference,NAIA,Thomas University,Thomas University,0,0,exact name
+101693,Southern States Athletic Conference,NAIA,University of Mobile,University of Mobile,0,0,exact name
+176479,Southern States Athletic Conference,NAIA,William Carey University,William Carey University,0,0,exact name
+446048,Sun Conference,NAIA,Ave Maria University,Ave Maria University,0,0,exact name
+139250,Sun Conference,NAIA,College of Coastal Georgia,College of Coastal Georgia,0,0,exact name
+133979,Sun Conference,NAIA,Florida Memorial University,Florida Memorial University,0,0,exact name
+135081,Sun Conference,NAIA,Keiser University,Keiser University-Ft Lauderdale,0,0,override: flagship campus files as Keiser University-Ft Lauderdale
+262129,Sun Conference,NAIA,New College of Florida,New College of Florida,0,0,exact name
+137564,Sun Conference,NAIA,Southeastern University,Southeastern University,0,0,exact name
+137476,Sun Conference,NAIA,St. Thomas University,St. Thomas University,0,0,exact name
+138275,Sun Conference,NAIA,Warner University,Warner University,0,0,exact name
+138293,Sun Conference,NAIA,Webber International University,Webber International University,0,0,exact name
+168786,Wolverine–Hoosier Athletic Conference,NAIA,Aquinas College,Aquinas College,0,0,exact name
+169327,Wolverine–Hoosier Athletic Conference,NAIA,Cleary University,Cleary University,0,0,exact name
+170037,Wolverine–Hoosier Athletic Conference,NAIA,Cornerstone University,Cornerstone University,0,0,exact name
+202514,Wolverine–Hoosier Athletic Conference,NAIA,Defiance College,Defiance College,0,0,exact name
+151290,Wolverine–Hoosier Athletic Conference,NAIA,Indiana Institute of Technology (Indiana Tech),Indiana Institute of Technology,0,0,name and city
+170675,Wolverine–Hoosier Athletic Conference,NAIA,Lawrence Technological University (Lawrence Tech),Lawrence Technological University,0,0,name and city
+203757,Wolverine–Hoosier Athletic Conference,NAIA,Lourdes University,Lourdes University,0,0,exact name
+170806,Wolverine–Hoosier Athletic Conference,NAIA,Madonna University,Madonna University,0,0,exact name
+170967,Wolverine–Hoosier Athletic Conference,NAIA,Rochester Christian University,Rochester University,0,0,name and state
+172264,Wolverine–Hoosier Athletic Conference,NAIA,Siena Heights University,Siena Heights University,0,0,exact name
+171137,Wolverine–Hoosier Athletic Conference,NAIA,University of Michigan–Dearborn,University of Michigan-Dearborn,0,0,exact name
+204486,Wolverine–Hoosier Athletic Conference,NAIA,University of Northwestern Ohio (UNOH),University of Northwestern Ohio,0,0,name and city

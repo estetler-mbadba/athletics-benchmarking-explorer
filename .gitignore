@@ -1,0 +1,6 @@
+# Raw federal files are re-downloaded by `make fetch`; the database is rebuilt by `make build`.
+data/raw/
+build/
+__pycache__/
+*.pyc
+.DS_Store

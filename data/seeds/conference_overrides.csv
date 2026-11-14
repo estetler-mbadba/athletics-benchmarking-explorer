@@ -1,0 +1,73 @@
+list,wiki_school,unitid,note
+D1,Fairleigh Dickinson University,184603,the Division I program is the Metropolitan Campus; the Florham Campus competes in Division III
+D1,Louisiana State University and Agricultural and Mechanical College,159391,name spelled with an ampersand in EADA
+D1,United States Military Academy,,service academy; does not file EADA
+D1,United States Air Force Academy,,service academy; does not file EADA
+D1,United States Naval Academy,,service academy; does not file EADA
+D3,United States Coast Guard Academy,,service academy; does not file EADA
+D2,Hillsdale College,,accepts no federal student aid; does not file EADA
+D3,Grove City College,,accepts no federal student aid; does not file EADA
+D2,Simon Fraser University,,Canadian institution; does not file EADA
+NAIA,University of British Columbia,,Canadian institution; does not file EADA
+NAIA,University of Victoria,,Canadian institution; does not file EADA
+NAIA,University of the Virgin Islands,243665,territory not in the state lookup
+D2,Morehouse College,,men's college; EADA covers coeducational institutions only
+D3,Wabash College,,men's college; EADA covers coeducational institutions only
+D3,Hampden–Sydney College,,men's college; EADA covers coeducational institutions only
+D3,Saint John's University,,men's college (joint program with the College of Saint Benedict); EADA covers coeducational institutions only
+D3,College of Saint Benedict,,women's college; EADA covers coeducational institutions only
+D3,Agnes Scott College,,women's college; EADA covers coeducational institutions only
+D3,Bryn Mawr College,,women's college; EADA covers coeducational institutions only
+D3,Hollins University,,women's college; EADA covers coeducational institutions only
+D3,Meredith College,,women's college; EADA covers coeducational institutions only
+D3,Mount Holyoke College,,women's college; EADA covers coeducational institutions only
+D3,Mount Mary University,,women's college; EADA covers coeducational institutions only
+D3,Saint Mary's College,,women's college; EADA covers coeducational institutions only
+D3,Salem College,,women's college; EADA covers coeducational institutions only
+D3,Simmons University,,women's undergraduate college; no EADA record
+D3,Smith College,,women's college; EADA covers coeducational institutions only
+D3,Sweet Briar College,,women's college; EADA covers coeducational institutions only
+D3,Wesleyan College,,women's college; EADA covers coeducational institutions only
+NAIA,Cottey College,,women's college; EADA covers coeducational institutions only
+NAIA,College of Saint Mary,,women's college; EADA covers coeducational institutions only
+D2,Bloomsburg University of Pennsylvania,,files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,Lock Haven University of Pennsylvania,,files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,Mansfield University of Pennsylvania,,files as part of Commonwealth University of Pennsylvania (three athletic programs in one record)
+D2,"Pennsylvania Western University, California",,files as part of Pennsylvania Western University (three athletic programs in one record)
+D2,"Pennsylvania Western University, Clarion",,files as part of Pennsylvania Western University (three athletic programs in one record)
+D2,"Pennsylvania Western University, Edinboro",,files as part of Pennsylvania Western University (three athletic programs in one record)
+D3,Vermont State University–Castleton,,files as part of Vermont State University (three athletic programs in one record)
+D3,Vermont State University–Johnson,,files as part of Vermont State University (three athletic programs in one record)
+D3,Vermont State University–Lyndon,,files as part of Vermont State University (three athletic programs in one record)
+NAIA,Savannah College of Art and Design,,one EADA record covers the Savannah and Atlanta programs
+NAIA,Savannah College of Art and Design–Atlanta,,one EADA record covers the Savannah and Atlanta programs
+D2,Maryville University,178059,EADA name is Maryville University of Saint Louis
+D3,Baruch College,190512,EADA name is CUNY Bernard M Baruch College
+D3,City College of New York,190567,EADA name is CUNY City College
+D3,"York College, City University of New York",190691,EADA name is CUNY York College
+D3,State University of New York at Canton,196015,EADA name is SUNY College of Technology at Canton
+D3,State University of New York at Cobleskill,196033,EADA name is SUNY College of Agriculture and Technology at Cobleskill
+D3,State University of New York at Delhi,196024,EADA name is SUNY College of Technology at Delhi
+D3,State University of New York Maritime College,196291,EADA name is SUNY Maritime College
+D3,State University of New York Polytechnic Institute,196112,EADA name is SUNY Polytechnic Institute
+D3,State University of New York at Oneonta,196185,EADA name is SUNY Oneonta
+D3,State University of New York at Potsdam,196200,EADA name is SUNY College at Potsdam
+D3,State University of New York at Purchase,196219,EADA name is SUNY at Purchase College
+D3,Alfred State College,196006,EADA name is SUNY College of Technology at Alfred; not Alfred University
+D3,Pomona College and Pitzer College,121345,joint program; both colleges file the same athlete counts and the Pomona record is used
+NAIA,Keiser University,135081,flagship campus files as Keiser University-Ft Lauderdale
+NAIA,Indiana University Columbus,,no separate EADA record for 2024-25
+NAIA,Park University Gilbert,,no separate EADA record; the Missouri campus files as Park University
+NAIA,Concordia University Ann Arbor,,no EADA record; a campus of Concordia University Wisconsin
+D2,LeMoyne-Owen College,220604,EADA name is Le Moyne-Owen College
+NAIA,Benedictine University at Mesa,,no separate EADA record; not Mesa Community College
+D2,Academy of Art University,,no EADA record for 2024-25
+D2,Limestone University,,no EADA record for 2024-25 (closed in 2025)
+D2,Saint Augustine's University,,no EADA record for 2024-25
+D3,Bryn Athyn College,,no EADA record for 2024-25
+D3,Fontbonne University,,no EADA record for 2024-25 (closed in 2025)
+D3,Northland College,,no EADA record for 2024-25 (closed in 2025)
+NAIA,Multnomah University,,no EADA record for 2024-25
+NAIA,Providence Christian College,,no EADA record for 2024-25
+NAIA,St. Andrews University,,no EADA record for 2024-25 (closed in 2025)
+D1,University of Southern Indiana,151306,Division I member of the Ohio Valley Conference since 2022; EADA classification lags

@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Athletics Benchmarking Explorer</title>
+<meta name="description" content="Pick any U.S. college and see how its athletics program compares with its conference, its division, or a group you choose. Built from public federal data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="mast">
+  <div class="wrap mast-in">
+    <a class="brand" href="index.html"><span class="mark" aria-hidden="true"><i></i><i></i><i></i></span><span>Athletics Benchmarking Explorer</span></a>
+    <a class="vintage" id="vintage" href="methods.html#checks"></a>
+  </div>
+</div>
+
+<div class="bar" id="bar" hidden>
+  <div class="wrap">
+    <div class="bar-row">
+      <div>
+        <label class="ctl-label" for="find-bar">College</label>
+        <div class="finder"><input id="find-bar" type="text" aria-label="Find a college" role="combobox" aria-expanded="false" aria-controls="find-bar-list" aria-autocomplete="list" autocomplete="off" spellcheck="false" placeholder="Find a college"><ul class="results" id="find-bar-list" role="listbox" hidden></ul></div>
+      </div>
+      <div>
+        <label class="ctl-label" for="group">Compared with</label>
+        <select class="ctl" id="group" aria-label="Compared with"></select>
+      </div>
+    </div>
+    <nav class="tabs" id="tabs" aria-label="Sections of this page">
+      <a href="#summary">Summary</a>
+      <a href="#standing">Standing</a>
+      <a href="#group-sec">The group</a>
+      <a href="#trend">Trend</a>
+      <a href="#sports">Sports</a>
+      <a href="#gender">Gender equity</a>
+      <a href="#limits">Limits</a>
+      <a class="aside" href="methods.html">Methods and checks</a>
+    </nav>
+  </div>
+</div>
+
+<div class="wrap">
+
+<!-- ================= No college picked: the picker and the national picture ================= -->
+<div id="home">
+  <header class="hero">
+    <p class="eyebrow">Public federal data, <span id="home-years"></span></p>
+    <h1>How does a college's athletics program compare with its peers?</h1>
+    <p class="deck" id="home-deck"></p>
+    <div class="finder big"><input id="find-home" type="text" role="combobox" aria-expanded="false" aria-controls="find-home-list" aria-autocomplete="list" autocomplete="off" spellcheck="false" placeholder="Type a college name" aria-label="Find a college"><ul class="results" id="find-home-list" role="listbox" hidden></ul></div>
+    <p class="or">No college is featured here. <button class="link" id="random" type="button">Open one at random</button> to see how the page works.</p>
+    <p class="disclaimer">An independent analysis of public records. Not affiliated with or endorsed by any college, conference, or athletic association.</p>
+  </header>
+
+  <section id="national">
+    <p class="kicker">The national picture</p>
+    <h2>Divisions run very different programs</h2>
+    <p class="finding" id="national-finding"></p>
+    <div class="inline-ctl"><label for="national-measure">Show</label><select class="ctl" id="national-measure"></select></div>
+    <div id="national-chart"></div>
+    <div class="card"><h3>Median school in each division, <span id="national-year"></span></h3>
+      <div class="table-scroll"><table class="glance" id="national-table"></table></div>
+      <details class="fine"><summary>Definitions and sources for this table</summary><p id="national-source"></p></details>
+    </div>
+  </section>
+
+  <section id="what">
+    <p class="kicker">What you get</p>
+    <h2>Pick a college, then pick what to compare it with</h2>
+    <ul class="plain">
+      <li><strong>Five comparison groups.</strong> The college's conference, its division nationally, its division within its region, the 20 colleges in its division closest in enrollment, or a list you build yourself.</li>
+      <li><strong>The same measures for every college.</strong> Athletes as a share of undergraduates, spending and recruiting per athlete, athletic aid against tuition, coaching load, and the balance between women's share of athletes and of students.</li>
+      <li><strong>Rank, median, trend, and sport-by-sport detail,</strong> each with the table behind it.</li>
+      <li><strong>A link you can share.</strong> The address records the college and the group, so a copied link opens the same view.</li>
+    </ul>
+  </section>
+</div>
+
+<!-- ================= A college is picked ================= -->
+<div id="school" hidden>
+  <header class="top">
+    <p class="eyebrow" id="s-eyebrow"></p>
+    <h1 id="s-name"></h1>
+    <p class="deck" id="s-deck"></p>
+    <p class="disclaimer">An independent analysis of public records. Not affiliated with or endorsed by any college, conference, or athletic association. <button class="link" id="clear" type="button">Start over</button></p>
+    <div class="flag" id="s-flag" hidden><strong>Read with care.</strong><span id="s-flag-text"></span></div>
+    <div class="custom" id="custom" hidden>
+      <p>Build your own comparison group. Add colleges one at a time; the list is saved in the page address.</p>
+      <div class="finder"><input id="find-peer" type="text" role="combobox" aria-expanded="false" aria-controls="find-peer-list" aria-autocomplete="list" autocomplete="off" spellcheck="false" placeholder="Add a college to the group" aria-label="Add a college to the group"><ul class="results" id="find-peer-list" role="listbox" hidden></ul></div>
+      <ul class="chips" id="chips"></ul>
+    </div>
+  </header>
+
+  <section id="summary">
+    <p class="kicker">Summary</p>
+    <div class="tiles" id="tiles"></div>
+    <p class="tiles-note" id="tiles-note"></p>
+    <h2 class="minor">Key findings</h2>
+    <ol class="kf" id="kf"></ol>
+  </section>
+
+  <section id="standing">
+    <p class="kicker">Standing</p>
+    <h2 id="standing-title"></h2>
+    <p class="finding" id="standing-finding"></p>
+    <div class="card"><div class="table-scroll"><table class="standing" id="standing-table"></table></div>
+      <details class="fine"><summary>How to read this table</summary><p id="standing-source"></p></details>
+    </div>
+  </section>
+
+  <section id="group-sec">
+    <p class="kicker">The group</p>
+    <h2 id="group-title"></h2>
+    <p class="finding" id="group-finding"></p>
+    <div class="inline-ctl"><label for="measure">Measure</label><select class="ctl" id="measure"></select></div>
+    <div id="group-chart"></div>
+    <div id="group-scatter"></div>
+    <div class="card"><h3 id="group-table-title"></h3><p class="sub">Select a row to open that college. Select a column heading to sort.</p>
+      <div class="scrollbox"><table class="group" id="group-table"></table></div>
+    </div>
+  </section>
+
+  <section id="trend">
+    <p class="kicker">Trend</p>
+    <h2 id="trend-title"></h2>
+    <p class="finding" id="trend-finding"></p>
+    <div class="grid-2">
+      <div id="trend-a"></div>
+      <div id="trend-b"></div>
+    </div>
+    <p class="note" id="trend-note"></p>
+  </section>
+
+  <section id="sports">
+    <p class="kicker">Sport by sport</p>
+    <h2 id="sports-title"></h2>
+    <p class="finding" id="sports-finding"></p>
+    <div id="sports-chart"></div>
+    <p class="note" id="sports-note"></p>
+  </section>
+
+  <section id="gender">
+    <p class="kicker">Gender equity</p>
+    <h2 id="gender-title"></h2>
+    <p class="finding" id="gender-finding"></p>
+    <div class="grid-2">
+      <div id="gender-a"></div>
+      <div id="gender-b"></div>
+    </div>
+    <p class="note">Proportionality is one of three ways a college can meet the participation test under Title IX. A gap here does not by itself show noncompliance.</p>
+  </section>
+
+  <section id="limits">
+    <p class="kicker">Limits</p>
+    <h2>What this data cannot show</h2>
+    <ul class="plain">
+      <li><strong>Athletic aid only.</strong> The federal file reports athletically related aid. It does not show academic or other institutional aid that athletes also receive, so it cannot measure the total discount to athletes.</li>
+      <li><strong>Self-reported, with judgment calls.</strong> Colleges differ in what they count as athletic aid, how they split shared costs among teams, and how they count coaches. Small differences between colleges are not meaningful.</li>
+      <li><strong>No revenue comparison.</strong> Most small colleges report athletics revenue equal to expense because the institution covers the difference. Revenue is left out.</li>
+      <li><strong>Coeducational colleges only.</strong> The law does not require single-sex colleges to file, and the service academies and a few colleges that take no federal aid do not appear.</li>
+      <li><strong>Conference membership is for 2024-25</strong> and comes from outside the federal file. A college that has changed conferences since then is shown with its 2024-25 conference.</li>
+      <li id="limits-price"></li>
+    </ul>
+  </section>
+</div>
+
+<hr>
+<footer>
+  <p id="foot-source"></p>
+  <p>Built by Eric Stetler with Claude Code, an AI coding agent. <a href="methods.html">Methods, definitions, and accuracy checks</a>. <a href="https://github.com/estetler-mbadba/athletics-benchmarking-explorer">Code and data on GitHub</a>.</p>
+</footer>
+</div>
+
+<script src="data/explorer.js"></script>
+<script src="data/checks.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
